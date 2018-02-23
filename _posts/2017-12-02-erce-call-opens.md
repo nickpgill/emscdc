@@ -4,7 +4,7 @@ title: 'ERCE Call 5 opens'
 date: 2017-12-02T14:27:08+00:00
 author: nickgill
 layout: post
-permalink: /emscdc/2017/12/02/erce-call-opens/
+permalink: /2017/12/02/erce-call-opens/
 categories:
   - Uncategorized
 ---
