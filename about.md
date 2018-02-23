@@ -25,13 +25,7 @@ We work alongside a number of organisations, including  :
 
     <td height="19" width="20%">&nbsp;</td>
 
-    <td height="19" width="20%">
-
-    <br>
-
-    <font face="Verdana" size="2"> </font>
-
-    </td></tr>
+    <td height="19" width="20%">&nbsp;</td></tr>
 
   <tr>
 
@@ -166,7 +160,7 @@ We work alongside a number of organisations, including  :
 
     <td height="107" width="20%">
 
-    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a><br>
+    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a></td></tr></table>
 
 
 

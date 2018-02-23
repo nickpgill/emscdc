@@ -88,7 +88,7 @@ In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
  * 23.09.2013 <a href = "IndividualReports/pacomreportabuja.pdf">Report </a> and <a href = "IndividualReports/pacomreportabuja.pdf">speech</a> by Andreas Griewank from the 8th Pan African Congress of Mathematicians, Abuja, Nigeria.
  * 21.07.2013 <a href = "springer_initiative.pdf">Text</a> for EMS newsletter encouraging authors publishing with Springer to donate their royalties to EMS-CDC.
  * 20.04.2013 <a href = "IndividualReports/report_executive_2013.php">Report</a> by Michel Waldschmidt for the Executive Committee of EMS.
- * 20.04.2013 <a href = "Norway for mathematics in DC.pdf">Report</a> presented by Giulia Di Nunno to the CDC AGM on Norwegian involvement in mathematics in developing countries.</a>
+ * 20.04.2013 <a href = "Norway for mathematics in DC.pdf">Report</a> presented by Giulia Di Nunno to the CDC AGM on Norwegian involvement in mathematics in developing countries.
  * 20.04.2013 Individual reports for CDC AGM, Linkoping, Sweden:
    * <a href ="IndividualReports/miw2013.php">Michel Waldschmidt</a>.
    * <a href = "IndividualReports/DiNunno2013.php">Giulia di Nunno</a>.
@@ -97,19 +97,19 @@ In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
    * <a href = "IndividualReports/Griewank2013.php">Andreas Griewank</a>.
    * <a href = "IndividualReports/Roy2013.php">Marie-Francoise Roy</a>.
  * 10.04.2013 Report by <a href = "IndividualReports/ng.php">Neela Nataraj and Andreas Griewank</a> on the <a href = "IndividualReports/bricsfin.pdf">roundtable at ECM6</a>
- * 06.04.2013 Presentation of EMS-CDC by Michel Waldschmidt at the <a href = "http://projects.au.dk/presidents-ems/">EMS meeting of the presidents 2013</a> hosted by the <a href = "http://www.mathematics.dk/index_en.html">Danish Mathematical Society</a> in Aarhus: <a href = "IndividualReports/EMS-CDC06042013_print.pdf">Print version</a> | <a href = "IndividualReports/EMS-CDC06042013_screen.pdf">Screen version</a>
+ * 06.04.2013 Presentation of EMS-CDC by Michel Waldschmidt at the <a href = "http://projects.au.dk/presidents-ems/">EMS meeting of the presidents 2013</a> hosted by the <a href = "http://www.mathematics.dk/index_en.html">Danish Mathematical Society</a> in Aarhus: <a href = "IndividualReports/EMS-CDC06042013_print.pdf">Print version</a> and <a href = "IndividualReports/EMS-CDC06042013_screen.pdf">Screen version</a>
 
 # 2012
 
  * 10.2012 <a href = "presentation12.pdf">Summary</a> of our recent activities. 
  * 10.2012 <a href = "IndividualReports/Rpt102012.php">Report
-</a> by Tsou Sheung Tsun and Michel Waldschmidt.</li>
- * 05.07.2012 <a href="IndividualReports/Emerging_economies.pdf">Report</a> from the Round Table at 6th ECM (Krakow 2012): <i>Role of Mathematics in Emerging Economies</i></li>
+</a> by Tsou Sheung Tsun and Michel Waldschmidt.
+ * 05.07.2012 <a href="IndividualReports/Emerging_economies.pdf">Report</a> from the Round Table at 6th ECM (Krakow 2012): <i>Role of Mathematics in Emerging Economies</i>
  * 14.05.2012 <a href="IndividualReports/Rpt052012.php">Report
-</a> by Tsou Sheung Tsun and Michel Waldschmidt.</li>
+</a> by Tsou Sheung Tsun and Michel Waldschmidt.
  * 15.04.2012 <a href="IndividualReports/RptLimoges042012.php">Report</a> by Tsou Sheung Tsun and Michel Waldschmidt on the CDC AGM, Limoges.
  * 13.04.2012 Individual reports for CDC AGM, Limoges:
-   * <a href="IndividualReports/miw2012.php">Michel Waldschmidt</a>.</li>
+   * <a href="IndividualReports/miw2012.php">Michel Waldschmidt</a>.
    * <a href="IndividualReports/Griewank2012.php">Andreas Griewank</a>.
    * <a href="IndividualReports/Fino2012.php">Anna Fino</a>.
    * <a href="IndividualReports/Ramadas2012.php">Ramadas Ramakrishnan Trivandrum</a>.
@@ -126,17 +126,17 @@ In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
 
  * <a href="IndividualReports/miw2011.php">Individual report</a> from Michel Waldschmidt for 2010/2011
  * 14.11.2011 <a href="IndividualReports/Rpt112011.php">Report
-</a> by Tsou Sheung Tsun and Michel Waldschmidt. </li>
- * <a href="IndividualReports/phnom_penh_workshop_2011.pdf">Report</a> by Anders Wandahl from the workshop <i>Finding Online Information in Mathematics</i>, held in Phnom Penh, Cambodia, 8-12 August 2011.</li>
+</a> by Tsou Sheung Tsun and Michel Waldschmidt. 
+ * <a href="IndividualReports/phnom_penh_workshop_2011.pdf">Report</a> by Anders Wandahl from the workshop <i>Finding Online Information in Mathematics</i>, held in Phnom Penh, Cambodia, 8-12 August 2011.
  * 26.06.2011 <a href="IndividualReports/Rpt062011.php">Report
-</a> by Tsou Sheung Tsun and Michel Waldschmidt. </li>
+</a> by Tsou Sheung Tsun and Michel Waldschmidt. 
  * 04.03.2011
 <a href="IndividualReports/Rpt032011.php">Report
-</a> by Tsou Sheung Tsun and Michel Waldschmidt. </li>
+</a> by Tsou Sheung Tsun and Michel Waldschmidt. 
 
 # 2010
 
- * <a href="IndividualReports/EMS-CDC_IMU_Workshops_2010.pdf">Report</a> by Anders Wandahl from the workshop <i>Finding Online Information in Mathematics</i>, held in Addis Ababa and Bamako, October/November 2010</li>
+ * <a href="IndividualReports/EMS-CDC_IMU_Workshops_2010.pdf">Report</a> by Anders Wandahl from the workshop <i>Finding Online Information in Mathematics</i>, held in Addis Ababa and Bamako, October/November 2010
  * 01.11.2010
 <a href="IndividualReports/Rpt112010.php">Report
 </a> by Tsou Sheung Tsun and Michel Waldschmidt. 
