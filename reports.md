@@ -120,8 +120,6 @@ In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
    * <a href="IndividualReports/Fleischner2012.php">Herbert Fleischner</a>.
    * <a href="Limoges042012.pdf">Brève présentation du comité pour les pays en développement de la Société Mathématique Européenne par Michel Théra</a>.
  
-</ul></ul>
-
 # 2011
 
  * <a href="IndividualReports/miw2011.php">Individual report</a> from Michel Waldschmidt for 2010/2011
