@@ -17,7 +17,7 @@ layout: page
 <tr><td><b>Chair</b>: <a href="http://www.isp.uu.se">Leif Abrahamsson</a> (Uppsala)</td><td>leif.abrahamsson</td><td>isp.uu.se</td></tr>
 <tr><td><a href = "http://perso.univ-perp.fr/aussel/">Didier Aussel</a> (Perpignan) </td><td>aussel</td><td>univ-perp.fr</td></tr>
 <tr><td><b>Vice Chair</b>: <a href="http://perso.univ-lille3.fr/~sdabo/">Sophie Dabo</a> (Lille)</td><td>sophie.dabo</td><td>univ-lille3.fr</td></tr>
-<tr><td><a href = "http://www.mi.fu-berlin.de/users/esnault/">Hélenè Esnault</a> (Berlin) </td><td>esnault</td><td>math.fu-berlin.de</td></tr>
+<tr><td><a href = "http://www.mi.fu-berlin.de/users/esnault/">Hélène Esnault</a> (Berlin) </td><td>esnault</td><td>math.fu-berlin.de</td></tr>
 <tr><td><a href="https://www.iag.uni-hannover.de/hulek.html">Klaus Hulek</a> (Hannover)</td><td>hulek</td><td>math.uni-hannover.de</td></tr> 
 <tr><td><a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
 <tr><td><a href = "https://people.maths.ox.ac.uk/szendroi/">Balazs Szendroi</a> (Oxford) </td><td>szendroi</td><td>maths.ox.ac.uk</td></tr>
@@ -31,7 +31,7 @@ layout: page
 <table>
 <tr>
 <td><b>Name</b></td><td><b>E-name</b></td><td><b>Domain</b></td></tr>
-<tr><td>Paul Vaderlind (Stockhom)</td><td>paul</td><td>math.su.se</td></tr>
+<tr><td>Paul Vaderlind (Stockholm)</td><td>paul</td><td>math.su.se</td></tr>
 <tr><td><a href="http://www.mat.uc.pt/~cmuc/peoplehome.php?tp=&pid=105">Joana Teles</a> (Coimbra)</td><td>jteles</td><td>mat.uc.pt</td></tr>
 <tr><td><a href="http://folk.uio.no/giulian/">Giulia di Nunno</a>
 (Oslo)</td><td>giulian</td><td>math.uio.no</td></tr>
@@ -50,7 +50,7 @@ layout: page
 </table>
 <p>
 <i> In memoriam</i> :
-<a href="MikaelPassare.php"> Mikael Passare </a>
+<a href="MikaelPassare"> Mikael Passare </a>
 </p>
 
 
