@@ -6,7 +6,7 @@ author: nickgill
 layout: page
 ---
 
-The latest new from the EMS-CDC...
+The latest news from the EMS-CDC...
 
 {% for post in site.posts %}
 
