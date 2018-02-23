@@ -7,10 +7,10 @@ layout: page
 ---
 <p>
 The Committee for Developing Countries is a committee of the <a href="http://euro-math-soc.eu/" title="The European Mathematical Society">European Mathematical Society (EMS)</a>; its terms of reference can be found <a href = "http://www.euro-math-soc.eu/committee/developing-countries">here</a>. Click on the links above to find out about our activities, or browse the following resources which were used at ICM2014 to describe our work: <a href="Beamer2014.pdf">presentation</a> | <a href="Poster2014.pdf">poster</a> | <a href = "Leaflet2014.pdf">leaflet</a>. 
-</p><p>
+</p>
+
 To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our <a href = "members.php">members</a> directly.
-</p> 
-<p>
+
 We work alongside a number of organisations, including  :
 
 <table style="border-collapse: collapse;" bgcolor="#8080e0" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="500" width="100%">
@@ -27,7 +27,7 @@ We work alongside a number of organisations, including  :
 
     <td height="19" width="20%">
 
-    </a><br>
+    <br>
 
     <font face="Verdana" size="2"> </font>
 
@@ -85,14 +85,14 @@ We work alongside a number of organisations, including  :
 
     <td height="156" width="20%">&nbsp;</td>
 
-    <td height="156" width="20%"> <a href="http://www.euro-math-soc.eu/node/2466">
+    <td height="156" width="20%"> <a href="http://www.euro-math-soc.eu">
 
-    <img src="images/garland_logo.png" border="0" height="109" width="112">donations</a>
+    <img src="images/garland_logo.png" border="0" height="109" width="112"></a>
 </td>
 
     <td height="156" width="20%">&nbsp;</td>
 
-    <td height="156" width="20%"><a href="http://www.isp.uu.se"><img src="images/uu-logo_red.gif" border="0" height="107" width="90"></td>
+    <td height="156" width="20%"><a href="http://www.isp.uu.se"><img src="images/uu-logo_red.gif" border="0" height="107" width="90"></a></td>
 
   </tr>
 
@@ -146,9 +146,7 @@ We work alongside a number of organisations, including  :
 
          <td height="107" width="20%">
 
-    <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a><br>
-
-    <font face="Verdana" size="2"> </font>
+    <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a></td>
 
   </tr>
 
@@ -160,8 +158,6 @@ We work alongside a number of organisations, including  :
 
     <a href="http://www.iciam.org/DCS/"><img src="images/ICIAM-Logo.jpg" border="0" height="107" width="90"></a><br>
 
-    <font face="Verdana" size="2"> </font>
-
     </td>
 
     <td height="107" width="20%"><a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53">reviewers</a></td>
@@ -172,9 +168,6 @@ We work alongside a number of organisations, including  :
 
     <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a><br>
 
-    <font face="Verdana" size="2"> 
-
-</font>
 
     </td>
 
@@ -184,8 +177,7 @@ We work alongside a number of organisations, including  :
 
   
 
-</tbody></table>
+</table>
 
 
-</p>
 
