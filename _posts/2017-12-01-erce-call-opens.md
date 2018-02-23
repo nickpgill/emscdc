@@ -4,7 +4,7 @@ title: ERCE Call 5 opens
 date: 2017-12-01
 author: nickgill
 layout: post
-permalink: /2017/12/01/erce-call-5-opens/
+permalink: /2017/12/01/erce-call-opens/
 
 ---
 
