@@ -4,6 +4,8 @@ title: ERCE Call 5 opens
 date: 2017-12-01
 author: nickgill
 layout: post
+permalink: /2017/12/01/erce-call-5-opens/
+
 ---
 
 ERCE is a label awarded by the EMS to centres showing an outstanding level in its area of influence in research and education, being attractor of students from other regions and countries. Indeed the education of Master and PhD students is an asset for raising the quality and the diffusion of mathematics worldwide and it has particular value in the developing world. ERCE centres are selected among those which play an important role in training students in their region particularly coming from less developed areas and countries. More information about the scheme is given <a href = "erce.php">here</a>.
