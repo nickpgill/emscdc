@@ -1,6 +1,6 @@
 ---
-id: 4
-title: News
+id: 5
+title: Activities
 date: 2014-03-11T19:18:39+00:00
 author: nickgill
 layout: page
