@@ -169,15 +169,6 @@ We work alongside a number of organisations, including  :
     <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a><br>
 
 
-    </td>
-
-    <td height="107" width="20%">&nbsp;</td>
-
-  </tr>
-
-  
-
-</table>
 
 
 
