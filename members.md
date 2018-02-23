@@ -1,4 +1,4 @@
-﻿---
+---
 id: 9
 title: Members
 date: 2014-03-11T19:18:39+00:00
@@ -53,8 +53,4 @@ layout: page
 <a href="MikaelPassare.php"> Mikael Passare </a>
 </p>
 
-<?php include("includes/bottombit.php"); ?>
 
-
-</body>
-</html>
