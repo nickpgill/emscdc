@@ -4,7 +4,6 @@ title: 'Successful grant: on Cherlins Conjecture'
 date: 2017-12-19T14:27:08+00:00
 author: nickgill
 layout: post
-guid: http://boolesrings.org/nickgill/?p=459
 permalink: /emscdc/2017/12/19/successful-grant-on-cherlins-conjecture/
 categories:
   - Uncategorized

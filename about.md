@@ -17,19 +17,19 @@ We work alongside a number of organisations, including:
 
   <tbody><tr>
 
-    <td height="19" width="20%">&nbsp;</td>
+    <td height="19" width="20%">&nbsp;
 
-    <td height="19" width="20%">&nbsp;</td>
+    <td height="19" width="20%">&nbsp;
 
-    <td height="19" width="20%">&nbsp;</td>
+    <td height="19" width="20%">&nbsp;
 
-    <td height="19" width="20%">&nbsp;</td>
+    <td height="19" width="20%">&nbsp;
 
-    <td height="19" width="20%">&nbsp;</td></tr>
+    <td height="19" width="20%">&nbsp;</tr>
 
   <tr>
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
@@ -39,9 +39,9 @@ We work alongside a number of organisations, including:
 
        </font>
 
-    </td>
+    
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
@@ -55,9 +55,9 @@ We work alongside a number of organisations, including:
 
        </font>
 
-    </td>
+    
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
   </tr>
 
@@ -72,21 +72,21 @@ We work alongside a number of organisations, including:
 
     <font face="Verdana" size="2">   </font>  
 
-    </td>
+    
 
     
 
 
-    <td height="156" width="20%">&nbsp;</td>
+    <td height="156" width="20%">&nbsp;
 
     <td height="156" width="20%"> <a href="http://www.euro-math-soc.eu">
 
     <img src="images/garland_logo.png" border="0" height="109" width="112"></a>
-</td>
 
-    <td height="156" width="20%">&nbsp;</td>
 
-    <td height="156" width="20%"><a href="http://www.isp.uu.se"><img src="images/uu-logo_red.gif" border="0" height="107" width="90"></a></td>
+    <td height="156" width="20%">&nbsp;
+
+    <td height="156" width="20%"><a href="http://www.isp.uu.se"><img src="images/uu-logo_red.gif" border="0" height="107" width="90"></a>
 
   </tr>
 
@@ -94,25 +94,25 @@ We work alongside a number of organisations, including:
   <tr>
 
 
-    <td height="156" width="20%">&nbsp;</td>
+    <td height="156" width="20%">&nbsp;
 
     <td height="156" width="20%">
 <a href="http://www.math.ch/">
     <img src="images/sms_logo.gif" border="0" height="119" width="130"> </a>
 
-  <font face="Verdana" size="2"> </font></td>
+  <font face="Verdana" size="2"> </font>
  
 
 
     <font face="Verdana" size="2"> </font>
 
-      </td>
+      
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
-   <a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53"></a></td>
+   <a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53"></a>
 
   </tr>
 
@@ -122,39 +122,39 @@ We work alongside a number of organisations, including:
 
       <a href="http://math.golonka.org"><img src="images/e-math-africa-logo.png" border="0" height="107" width="90"></a><br>
 
-    <font face="Verdana" size="2"> </font></td>
+    <font face="Verdana" size="2"> </font>
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
-    <a href="http://www.lms.ac.uk/"><img src="images/lmslogo.gif" border="0" height="75" width="180"></a></td>
+    <a href="http://www.lms.ac.uk/"><img src="images/lmslogo.gif" border="0" height="75" width="180"></a>
 
     <p align="center">
 
          <td height="107" width="20%">
 
-    <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a></td>
+    <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a>
 
   </tr>
 
     <tr>
 
-          <td height="107" width="20%">&nbsp;</td>
+          <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
     <a href="http://www.iciam.org/DCS/"><img src="images/ICIAM-Logo.jpg" border="0" height="107" width="90"></a><br>
 
-    </td>
+    
 
-    <td height="107" width="20%"><a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53">reviewers</a></td>
+    <td height="107" width="20%"><a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53">reviewers</a>
 
-    <td height="107" width="20%">&nbsp;</td>
+    <td height="107" width="20%">&nbsp;
 
     <td height="107" width="20%">
 
-    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a></td></tr>
+    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a></tr>
 
 
 
