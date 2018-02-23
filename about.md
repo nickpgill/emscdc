@@ -25,7 +25,7 @@ We work alongside a number of organisations, including:
 
     <td height="19" width="20%">&nbsp;
 
-    <td height="19" width="20%">&nbsp;</tr>
+    <td height="19" width="20%">&nbsp;
 
   <tr>
 
@@ -59,7 +59,7 @@ We work alongside a number of organisations, including:
 
     <td height="107" width="20%">&nbsp;
 
-  </tr>
+  
 
   <tr>
 
@@ -88,7 +88,7 @@ We work alongside a number of organisations, including:
 
     <td height="156" width="20%"><a href="http://www.isp.uu.se"><img src="images/uu-logo_red.gif" border="0" height="107" width="90"></a>
 
-  </tr>
+  
 
 
   <tr>
@@ -114,7 +114,7 @@ We work alongside a number of organisations, including:
 
    <a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53"></a>
 
-  </tr>
+  
 
   <tr>
 
@@ -136,7 +136,7 @@ We work alongside a number of organisations, including:
 
     <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a>
 
-  </tr>
+  
 
     <tr>
 
@@ -154,7 +154,7 @@ We work alongside a number of organisations, including:
 
     <td height="107" width="20%">
 
-    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a></tr>
+    <a href="http://bordeauxtheque.math.u-bordeaux1.fr/"><img src="images/pontdepierre4.jpg" border="0" height="107" width="90">Bordeauxtheque</a>
 
 
 
