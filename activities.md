@@ -79,8 +79,7 @@ Members of <b>Electronic access subcommittee</b>:
 <a href="http://www.dm.unito.it/~fino/">Anna Fino</a>,   	
 <a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a>,
 <a href="http://math.golonka.org/">Anders Wandahl</a></i> (Chair of the subcommittee).  The CDC is open to facilitate such activity at request of interested parties. To present a motion of interest please contact <i>CDC-apply@ems-cdc.org</i>.
-<li> <b>Mentoring</b>: We participate in the project entitled <a href="http://www.lms.ac.uk/grants/mentoring-african-research-mathematics">Mentoring African Research Mathematics (MARM)</a>.
-
+ * <b>Mentoring</b>: We participate in the project entitled <a href="http://www.lms.ac.uk/grants/mentoring-african-research-mathematics">Mentoring African Research Mathematics (MARM)</a>.
  * <b>Reduced EMS Membership</b>: A special reduced fee of 5€ for mathematicians who reside in a developing country from 
 <a href="http://www.euro-math-soc.eu/reduced-membership-fees">this list </a> was established by our Committee.
 More details on the advantages of membership can be found
