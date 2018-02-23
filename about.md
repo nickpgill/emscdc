@@ -189,5 +189,3 @@ We work alongside a number of organisations, including  :
 
 </p>
 
-</body>
-</html>
