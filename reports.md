@@ -6,24 +6,20 @@ author: nickgill
 layout: page
 ---
 
-<p>Below you will find a number of reports on the activities of individual members and associates of the CDC. One can also find reports on the round tables organised by the CDC on various themes around the development of the mathematics education, culture and research in developing countries. Finally you can find some reports of various associations and centres whose work is connected to that of the CDC.</p>
+Below you will find a number of reports on the activities of individual members and associates of the CDC. One can also find reports on the round tables organised by the CDC on various themes around the development of the mathematics education, culture and research in developing countries. Finally you can find some reports of various associations and centres whose work is connected to that of the CDC.
 
-<h2>2018</h2>
-<p>
+# 2018
 In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
-</p>
 
-<h2>2017</h2>
-<ul>
-<li>25.11.2017 <a href = "ReportCouncil112017.pdf">Report</a> by Giulia Di Nunno for the Executive Council of the EMS.
-<li>06.04.2017 Documents for CDC AGM, Roma, Italy.
-<ul>
-<li>Agendas <a href = "IndividualReports/EMS-CDC-Members-and-Associates.docx">1</a> | <a href = "IndividualReports/EMS-CDC-Members.docx">2</a>.
-<li><a href = "IndividualReports/RoundTable.docx">Programme</a> for the round table.
-<li><a href = "rm_7apr2017.pdf">Slides</a> on the Mediterranean Youth Mathematical Championship (MYMC).
-</ul></ul>
+#2017
 
-<h2>2016</h2>
+* 25.11.2017 <a href = "ReportCouncil112017.pdf">Report</a> by Giulia Di Nunno for the Executive Council of the EMS.
+* 06.04.2017 Documents for CDC AGM, Roma, Italy.
+   * Agendas <a href = "IndividualReports/EMS-CDC-Members-and-Associates.docx">1</a> | <a href = "IndividualReports/EMS-CDC-Members.docx">2</a>.
+   * <a href = "IndividualReports/RoundTable.docx">Programme</a> for the round table.
+   * <a href = "rm_7apr2017.pdf">Slides</a> on the Mediterranean Youth Mathematical Championship (MYMC).
+
+#2016
 <ul>
 <li>01.04.2016 Organisation reports for CDC AGM, Trieste, Italy.
 <ul>
