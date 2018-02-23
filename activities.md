@@ -61,7 +61,7 @@ financially, on a case-by-case basis, by
 and also our own very limited funds. We have moved tens of tonnes of books and journals, from Europe, USA and Canada, to 
 Africa, South East Asia, and South and Central America. 
 <br/><br/>
-Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.</p> 
+Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.
 
 # Other activities
 
@@ -80,7 +80,8 @@ Members of <b>Electronic access subcommittee</b>:
 <a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a>,
 <a href="http://math.golonka.org/">Anders Wandahl</a></i> (Chair of the subcommittee).  The CDC is open to facilitate such activity at request of interested parties. To present a motion of interest please contact <i>CDC-apply@ems-cdc.org</i>.
 <li> <b>Mentoring</b>: We participate in the project entitled <a href="http://www.lms.ac.uk/grants/mentoring-african-research-mathematics">Mentoring African Research Mathematics (MARM)</a>.
- *  <b>Reduced EMS Membership</b>: A special reduced fee of 5€ for mathematicians who reside in a developing country from 
+
+ * <b>Reduced EMS Membership</b>: A special reduced fee of 5€ for mathematicians who reside in a developing country from 
 <a href="http://www.euro-math-soc.eu/reduced-membership-fees">this list </a> was established by our Committee.
 More details on the advantages of membership can be found
 <a href="http://www.euro-math-soc.eu/individual-members">on the EMS website</a>. 
