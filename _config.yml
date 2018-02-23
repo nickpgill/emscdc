@@ -35,6 +35,7 @@ exclude:
 excerpt_separator: <!--more-->
 permalink: /:title
 header_pages:
+  - index.md
   - about.md
   - activities.md
   - erce.md
