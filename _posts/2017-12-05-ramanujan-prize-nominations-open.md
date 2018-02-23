@@ -4,7 +4,6 @@ title: 'Ramanujan prize nominations open'
 date: 2017-12-05T14:27:08+00:00
 author: nickgill
 layout: post
-permalink: /emscdc/2017/12/05/ramanujan-prize-nominations-open/
 categories:
   - Uncategorized
 ---
