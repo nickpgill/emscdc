@@ -6,7 +6,7 @@ author: nickgill
 layout: page
 ---
 
-<img src="zblogo.jpg" width="300">zbMATH is a mathematics-reviewing service (edited by the EMS, FIZ
+<img src="zblogo.jpg">zbMATH is a mathematics-reviewing service (edited by the EMS, FIZ
 Karlsruhe, and the Heidelberg Academy) that can be accessed online at <a href = "http://www.zbmath.org">www.zbmath.org</a>. The site indexes all relevant mathematics journals, with complete coverage back to 1868.  Every article published since
 1868 is linked, with metadata and additional review resp. abstract
 available on the site. Other features include access to author
