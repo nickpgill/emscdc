@@ -17,7 +17,7 @@ title: EMS-CDC
 #email: nick.gill@southwales.ac.uk
 description: The website of the European Mathematics Society Committee for Developing Countries # this means to ignore newlines until "baseurl:"
 baseurl: "/emscdc" # the subpath of your site, e.g. /blog
-url: "https://nickpgill.github.io" # the base hostname & protocol for your site
+#url: "https://nickpgill.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  nickpgill
 
@@ -33,7 +33,7 @@ exclude:
 
 # Sam config
 excerpt_separator: <!--more-->
-permalink: emscdc/:title
+permalink: blog/:year/:month/:day/:title
 header_pages:
   - index.md
   - about.md
