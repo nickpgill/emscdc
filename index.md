@@ -11,7 +11,7 @@ The latest news from the EMS-CDC...
 
 {% for post in site.posts %}
 
-[{{ post.title }}]({{ post.url }})
+[{{ post.title }}]({{ site.baseurl }}/{{ post.url }})
 
 Posted on {{ post.date | date: "%b %-d, %Y" }}
 
