@@ -33,7 +33,7 @@ exclude:
 
 # Sam config
 excerpt_separator: <!--more-->
-#permalink: /:title
+permalink: emscdc/:title
 header_pages:
   - index.md
   - about.md
