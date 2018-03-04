@@ -24,13 +24,13 @@ During its annual meetings the CDC organises a round table for reflecting around
 
 The topic of this year's round table was: <i>Experiences about teaching mathematics:
 from the Montessori method to the Mediterranean Championship.
-The role of participation.</i>. More details can be found on the <a href="reports.md">reports page</a>.
+The role of participation.</i>. More details can be found on the <a href="reports">reports page</a>.
 
 # Activities
 
 We started work in earnest in 2002. Since then we have expanded our aims and been involved in a number of projects.
  * <b>Emerging Regional Centres of Excellence (ERCE)</b>: 
-This is a label of quality endorsed to such centres that offer training to Master and possibly PhD level to students from less developed countries in their regions and in such way effectively promote the  mathematics education and research development. For more details see <a href = "erce.md">here</a>.
+This is a label of quality endorsed to such centres that offer training to Master and possibly PhD level to students from less developed countries in their regions and in such way effectively promote the  mathematics education and research development. For more details see <a href = "erce">here</a>.
  * <b>Work with the Simons Foundation</b>: In November 2016, with the support of the <a href="http://www.simonsfoundation.org">Simons Foundation</a>, the CDC opened a program of research visits to foster research opportunities for young and established researchers.
  * <b>Financial Support</b>: The CDC has a limited funding substantially from donor. This is used to in agreement with the aims and objectives of the CDC. 
 A formal application for funding should be sent to the CDC at <i>CDC-apply@ems-cdc.org</i> by 15th March each year.
@@ -65,7 +65,7 @@ Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.
 
 # Other activities
 
- * <b>Agreement with <a href="http://www.zbmath.org/">zbMATH</a></b>: free access for Developing Countries. Details of this scheme are <a href="zbmath.md">here</a>.
+ * <b>Agreement with <a href="http://www.zbmath.org/">zbMATH</a></b>: free access for Developing Countries. Details of this scheme are <a href="zbmath">here</a>.
  *  <b>Funding conferences</b>:  Decisions to support a conference are taken once a year, during our annual meeting in April. 
 We have funded participants to ICM06 in Madrid, a speaker to Mongolia, part of a <a href="http://www.cimpa-icpam.org/">CIMPA</a> 
 school, part of the <a href = "http://www.europeanwomeninmaths.org/resources/news/creation-awma-african-women-in-mathematics-association">2nd African Women Mathematics workshop</a>, and so on.
@@ -89,5 +89,5 @@ More details on the advantages of membership can be found
  *  <b>Cambodian students</b>: We have supported a number of Cambodian students through their M.Sc. studies. In July 2013, we were
 very pleased to receive news of the <a href = "http://www.lepetitjournal.com/cambodge/accueil/en-bref/159798-diplome-le-1er-docteur-en-math-du-cambodge">first PhD student in mathematics in Cambodia</a>.
  * <b>Conference discussions</b> We held a roundtable at 5ECM and a discussion group at ICM10.
- *  <b>Twinning</b>: Until 2012 we had a <a href = "twinning.md">twinning scheme</a> under which we could provide a starting seed grant of around 500 Euros to facilitate the twinning of departments in developed and developing regions. Since this program was not active for many months, it is is not continued, but we could revive it in case of need.
+ *  <b>Twinning</b>: Until 2012 we had a <a href = "twinning">twinning scheme</a> under which we could provide a starting seed grant of around 500 Euros to facilitate the twinning of departments in developed and developing regions. Since this program was not active for many months, it is is not continued, but we could revive it in case of need.
 
