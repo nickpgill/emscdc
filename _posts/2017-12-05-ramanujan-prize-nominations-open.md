@@ -4,8 +4,8 @@ title: 'Ramanujan prize nominations open'
 date: 2017-12-05T14:27:08+00:00
 author: nickgill
 layout: post
-categories:
-  - Uncategorized
+#categories:
+#  - Uncategorized
 ---
 
 The Abdus Salam International Centre for Theoretical Physics (ICTP) is looking for good, young mathematicians from developing countries to be nominated for the 2018 Ramanujan Prize. The Prize, which has been awarded annually since 2005, is funded by the Department of Science and Technology of the Government of India (DST), and is administered jointly by ICTP, the International Mathematical Union (IMU), and the DST.
