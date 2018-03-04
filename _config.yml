@@ -33,7 +33,7 @@ exclude:
 
 # Sam config
 excerpt_separator: <!--more-->
-permalink: /:title
+#permalink: /:title
 header_pages:
   - index.md
   - about.md
