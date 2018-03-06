@@ -57,6 +57,4 @@ at the <a href="http://www.unicv.edu.cv/">Universidade Cabo Verde</a>
 <td>13-18/04<td>
 
 
-Rome 5 April 2016
-
 
