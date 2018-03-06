@@ -5,6 +5,7 @@ author: nickgill
 layout: page
 ---
 
+<table>
 <tr><td><b>COUNTRY</b><td><i>CITY</i>
 <td><i>OCCASION</i><td>DATES<td>
 
