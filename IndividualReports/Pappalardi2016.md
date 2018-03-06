@@ -5,10 +5,8 @@ author: nickgill
 layout: page
 ---
 
-<table border="0" cellspacing="3" cellpadding="3">
-<tbody valign="top">
-<tr><td width=120><b>COUNTRY</b><td width=120><i>CITY</i>
-<td width=400><i>OCCASION</i><td width=100>DATES<td width=195>
+<tr><td><b>COUNTRY</b><td><i>CITY</i>
+<td><i>OCCASION</i><td>DATES<td>
 
 <tr><td><b>Myanmar<td><i>Yangon<td><b>Invited speaker and Advisory board:</b><br>
 <a href="http://www.mathsmyanmar.org/conference/conference.htm">The Eighth International Conference on
@@ -55,8 +53,9 @@ short course of introduction to Analytic Number Theory<td>
 <i>Praia<td><b>Lecturer:</b><br>EMA-<a href="http://www.cimpa-icpam.org">CIMPA</a> school: 
 <a href="http://webusers.imj-prg.fr/~patrick.le-meur/EMA/ema.php">Algebraic Structures, Cryptography, Number Theory and Applications</a> 
 at the <a href="http://www.unicv.edu.cv/">Universidade Cabo Verde</a>
-<td>13-18/04<td></tbody> </table>
+<td>13-18/04<td>
 
-<font size=-1>Rome 5 April 2016</font>
+
+Rome 5 April 2016
 
 
