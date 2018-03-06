@@ -3,7 +3,7 @@ title: Vietnam Institute for Advanced Studies in Mathematics (VIASM)
 date: 2014-03-11T19:18:39+00:00
 author: nickgill
 layout: page
----</H2>
+---
 
 <p align=center>
 <img src = "viasm.jpg" width=600><br>
