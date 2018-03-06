@@ -1,20 +1,9 @@
-
-<html><head>
-
- 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>EMS-CDC The European Mathematical Society Committee for Developing Countries</title>
-
-<LINK rel="stylesheet" href="../style.css" type="text/css" title="style">
-
-<body id=reportspage>
-
-<?php include("../includes/topbit.php"); ?>
-<h2>Francesco Pappalardi (April)
-</h2>
+---
+title: Francesco Pappalardi 2016
+date: 2014-03-11T19:18:39+00:00
+author: nickgill
+layout: page
+---
 
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody valign="top">
@@ -71,10 +60,3 @@ at the <a href="http://www.unicv.edu.cv/">Universidade Cabo Verde</a>
 <font size=-1>Rome 5 April 2016</font>
 
 
-<?php include("../includes/bottombit.php"); ?>
-
-
-
-</body>
-</html>
-                                       
