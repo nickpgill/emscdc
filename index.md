@@ -8,6 +8,7 @@ layout: page
 
 The latest news from the EMS-CDC...
 
+---
 
 {% for post in site.posts %}
 
