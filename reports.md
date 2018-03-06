@@ -31,7 +31,7 @@ In 2018 the CDC will meet in Sigtuna, Sweden, 6-7 April 2018.
    * <a href = "IndividualReports/Greuel2016.pdf">Gert-Martin Greuel</a> (on IMAGINARY);
    * <a href = "IndividualReports/Jambu2016.pdf">Michel Jambu</a>;
    * <a href = "IndividualReports/Pappalardi2016">Francesco Pappalardi</a>;
-   * <a href = "IndividualReports/Roy2016">Marie-Fran&ccediloise Roy</a>;
+   * <a href = "IndividualReports/Roy2016">Marie-Francoise Roy</a>;
    * <a href = "IndividualReports/Turesson2016.pdf">Bengt Ove Turesson</a>;
    * <a href = "IndividualReports/Vitoriano2016.pdf">Bego&ntilde;a Vitoriano</a>.
    * <a href = "IndividualReports/miw2016">Michel Waldschmidt</a>.
