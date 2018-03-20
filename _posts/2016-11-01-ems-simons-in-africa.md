@@ -1,5 +1,5 @@
 ---
-title: EMS-Simons for Africa: funding available
+title: EMS-Simons for Africa funding available
 date: 2016-11-01
 author: nickgill
 layout: post
