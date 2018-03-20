@@ -7,9 +7,9 @@ layout: page
 ---
 Information on the seven current <b>Emerging Regional Centres of Excellence (ERCE)</b> centers is available in the links below. 
 
- * 2013-17: <a href = "erce_cimat">CIMAT</a> | <a href = "erce_viasm">VIASM</a>;
- * 2014-18: <a href = "erce_iasbs">IASBS</a> | <a href = "erce_inspem">INSPEM</a>;
- * 2016-20: <a href = "erce_imsp">IMSP</a> | <a href = "erce_ub">UB</a>  | <a href = "erce_uca">UCA</a> | <a href = "erce_itb">ITB</a>.
+ * 2013-17: <a href = "erce_cimat">CIMAT</a> I <a href = "erce_viasm">VIASM</a>;
+ * 2014-18: <a href = "erce_iasbs">IASBS</a> I <a href = "erce_inspem">INSPEM</a>;
+ * 2016-20: <a href = "erce_imsp">IMSP</a> I <a href = "erce_ub">UB</a>  I <a href = "erce_uca">UCA</a> I <a href = "erce_itb">ITB</a>.
 
 ERCE is a label of quality awarding those institutes that show an outstanding level in their own area of influence in research and education, being an attractor of students from other regions and countries. The label is granted for a period of 4 years with possibility of being renewed. The focus of this project is the education of students in the developed world to the Masters level and possibly PhD. 
  

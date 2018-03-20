@@ -1,6 +1,6 @@
 ---
 title: Maths in Paris
-date: 2018-02-01
+date: 2018-03-20
 author: nickgill
 layout: post
 ---
