@@ -12,7 +12,7 @@ We are very pleased to announce that four more institutes have been awarded the 
  * Department of Mathematics, University of Botswana, Gaborone, Botswana;
  * Institute Teknologi Bandung (ITB), Indonesia.
 
-We look forward to a fruitful collaboration with these centres over the coming four years. More information about these four centres, and the ERCE scheme, can be found on our <a href = "erce">ERCE page</a>.
+We look forward to a fruitful collaboration with these centres over the coming four years. More information about these four centres, and the ERCE scheme, can be found on our <a href = "/emscdc/erce">ERCE page</a>.
 
 You may also be interested to read a recent <a href = "ReportBerlin2016.pdf">report</a> on EMS-CDC activities for the EMS council meeting in Berlin, June 2016.
 
