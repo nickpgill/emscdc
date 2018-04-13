@@ -112,7 +112,7 @@ We work alongside a number of organisations, including:
 
    <a href="http://www.zbmath.org/"><img src="images/ZbMATH-logo.jpg" border="0" height="53"></a>
 
-  
+    <td height="107" width="20%">
 
   <tr>
 
@@ -130,11 +130,12 @@ We work alongside a number of organisations, including:
 
     <p align="center">
 
-         <td height="107" width="20%">
+    <td height="107" width="20%">
 
     <a href="http://www.siu.no/eng/Front-Page/Programme-information/Development-cooperation/NUFU"><img src="images/SIU.gif" border="0" height="107" width="90"></a>
 
-  
+   <td height="107" width="20%">
+
 
     <tr>
 
