@@ -5,15 +5,13 @@ date: 2014-03-11T19:18:39+00:00
 author: nickgill
 layout: page
 ---
-<p>
 The Committee for Developing Countries is a committee of the <a href="http://euro-math-soc.eu/" title="The European Mathematical Society">European Mathematical Society (EMS)</a>; its terms of reference can be found <a href = "http://www.euro-math-soc.eu/committee/developing-countries">here</a>. Click on the links above to find out about our activities, or browse the following resources which were used at ICM2014 to describe our work: <a href="Beamer2014.pdf">presentation</a> &#x7c; <a href="Poster2014.pdf">poster</a> &#x7c; <a href = "Leaflet2014.pdf">leaflet</a>. 
-</p>
 
-To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our <a href = "members">members</a> directly.
+To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our <a href = "members">members</a> directly. If you would like to make a donation to support our work, please go <a href = "http://euro-math-soc.eu/ems_payment_new/ems_cdc_donation.html">here</a>.
 
 We work alongside a number of organisations, including:
 
-<table style="border-collapse: collapse;" bgcolor="#8080e0" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="500" width="100%">
+<table style="border-collapse: collapse;"  border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="500" width="100%">
 
   <tbody><tr>
 

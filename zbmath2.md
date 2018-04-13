@@ -41,12 +41,11 @@ layout: page
      * Ghana
      * Guinea
      * Guinea-Bissau
+     * Kenya
      * Liberia
-     * Madagascar
      * Malawi
      * Mali
      * Mauritania
-     * Mozambique
      * Niger
      * Sierra Leone
      * Somalia
