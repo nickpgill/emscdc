@@ -18,7 +18,7 @@ Information on the seven current <b>Emerging Regional Centres of Excellence (ERC
 <a href = "erce">About</a> </td><td align="center"> 
 <a href = "erce-advantages">Advantages</a> </td><td align="center">
 <a href = "erce-criteria">Criteria</a> </td><td align="center">  
-<a href = "erce-apply">How to apply</a> </td></td></tr></table>
+<a href = "erce-apply">How to apply</a></td></tr></table>
 </p>
 
 Institutes matching all, or most, of the criteria are encouraged to apply. The advantages for the ERCE centres are:

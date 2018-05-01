@@ -18,7 +18,7 @@ Information on the seven current <b>Emerging Regional Centres of Excellence (ERC
 <a href = "erce">About</a> </td><td align="center"> 
 <a href = "erce-advantages">Advantages</a> </td><td align="center">
 <a href = "erce-criteria">Criteria</a> </td><td align="center">  
-<a href = "erce-apply">How to apply</a> </td></td></tr></table>
+<a href = "erce-apply">How to apply</a></td></tr></table>
 </p>
 
 If you decide to apply, please take careful note of the following: For your application to be successful, the application must contain basic information like the name and place of the institution, academic affiliation, address and other relevant contact information. If a multi university center, clarify the institution's position in the academic structure.

@@ -18,7 +18,7 @@ Information on the seven current <b>Emerging Regional Centres of Excellence (ERC
 <a href = "erce">About</a> </td><td align="center"> 
 <a href = "erce-advantages">Advantages</a> </td><td align="center">
 <a href = "erce-criteria">Criteria</a> </td><td align="center">  
-<a href = "erce-apply">How to apply</a> </td></td></tr></table>
+<a href = "erce-apply">How to apply</a></td></tr></table>
 </p>
 ERCE is a label of quality awarding those institutes that show an outstanding level in their own area of influence in research and education, being an attractor of students from other regions and countries. The label is granted for a period of 4 years with possibility of being renewed. The focus of this project is the education of students in the developed world to the Masters level and possibly PhD. 
  

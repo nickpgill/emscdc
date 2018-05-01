@@ -18,7 +18,7 @@ Information on the seven current <b>Emerging Regional Centres of Excellence (ERC
 <a href = "erce">About</a> </td><td align="center"> 
 <a href = "erce-advantages">Advantages</a> </td><td align="center">
 <a href = "erce-criteria">Criteria</a> </td><td align="center">  
-<a href = "erce-apply">How to apply</a> </td></td></tr></table>
+<a href = "erce-apply">How to apply</a></td></tr></table>
 </p>
 
 Our first call for interest went out in <a href = "erceadv10.pdf">2010</a>.  Since then a number of ERCE centres have been identified, see the top of the page. The list of criteria for participation in this scheme are:
