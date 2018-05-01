@@ -1,6 +1,6 @@
 ---
 title: Global Survey
-date: 2018-04-10
+date: 2018-05-01
 author: nickgill
 layout: post
 ---
@@ -12,7 +12,7 @@ The 2018 Global Survey of Mathematical, Computing, and Natural Scientists has be
   <tr>
     <td align="center"> 
 <a href = "http://statisticalresearchcenter.org/global18">http://statisticalresearchcenter.org/</a>
-</td></tr></p>
+</td></tr></table></p>
 
 We are looking for respondents, men and women, in all fields represented by the partnering Unions and all regions of the world. You are welcome to answer the survey yourself and forward this link to the survey to your lists of contacts and you colleagues, men and women. 
 
