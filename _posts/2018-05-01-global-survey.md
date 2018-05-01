@@ -1,5 +1,5 @@
 ---
-title: Global Survey
+title: Global Survey of Scientists
 date: 2018-05-01
 author: nickgill
 layout: post
