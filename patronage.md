@@ -14,4 +14,20 @@ This activity would be benefit:
   * CDC-EMS, since it would give an opportunity of international visibility in ideal locations where its activities could be advertised;
   * organisers that hold the patronage, since they could benefit from an authoritative recognition of value and they could use the patronage in other grant applications.
 
+Rules regarding patronage: 
+
+  1. The patronage does not imply any grant concession from CDC;
+
+  2. The patronage is given to activities that either take place in developing countries or mainly have participants form developing countries;
+
+  3. The main topic of the activity should be Mathematics (pure and applied) or Computer Science;
+
+  4. Applicants may submit all relevant information by filling the form below;
+
+  5. The decision and reply to a request of patronage should be delivered within 15 days from the application. For this reason there will be a subcommittee that will look after the processing on time of the various applications;
+
+  6. Profit Events are not eligible for the patronage.
+
+
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAYEfv4dxUNp9qf5fJOOngKKq_EA8dkFEz7ZppqtOzDKNTDw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
