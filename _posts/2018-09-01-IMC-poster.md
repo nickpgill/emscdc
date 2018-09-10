@@ -5,4 +5,4 @@ author: nickgill
 layout: post
 ---
 
-Members of EMS-CDC participated in the recent International Congress of Mathematicians in Rio de Janeiro, Brazil. As part of this we produced a poster outlining our recent activities. You can find that poster <a href = "/poster2018.pdf">here</a>.
+Members of EMS-CDC participated in the recent International Congress of Mathematicians in Rio de Janeiro, Brazil. As part of this we produced a poster outlining our recent activities. You can find that poster <a href = "/emscdc/poster2018.pdf">here</a>.
