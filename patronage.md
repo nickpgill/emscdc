@@ -8,11 +8,7 @@ layout: page
 
 CDC opens a call for application of Patronage from CDC for those Mathematical activities that are held in Developing countries or that involve significantly many participants from Developing Countries. 
 
-The patronage implies the permission to list CDC-EMS as one of the patronage institutions to the activity; display the CDC-EMS logo on the web site, poster and other printed material.
-
-This activity would be benefit: 
-  * CDC-EMS, since it would give an opportunity of international visibility in ideal locations where its activities could be advertised;
-  * organisers that hold the patronage, since they could benefit from an authoritative recognition of value and they could use the patronage in other grant applications.
+The patronage implies the permission to list CDC-EMS as one of the patronage institutions to the activity, displaying the EMS logo on the web site, poster and other printed material.
 
 Rules regarding patronage: 
 
@@ -20,7 +16,7 @@ Rules regarding patronage:
 
   2. The patronage is given to activities that either take place in developing countries or mainly have participants form developing countries;
 
-  3. The main topic of the activity should be Mathematics (pure and applied) or Computer Science;
+  3. The main topic of the activity should be Mathematical Sciences;
 
   4. Applicants may submit all relevant information by filling the form below;
 
