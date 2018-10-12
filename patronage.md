@@ -22,7 +22,7 @@ Rules regarding patronage:
 
   5. The decision and reply to a request of patronage should be delivered within 15 days from the application. For this reason there will be a subcommittee that will look after the processing on time of the various applications;
 
-  6. Profit Events are not eligible for the patronage.
+  6. Events for profit are not eligible for the patronage.
 
 
 
