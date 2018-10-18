@@ -84,6 +84,7 @@ Members of <b>Electronic access subcommittee</b>:
 <a href="http://www.euro-math-soc.eu/reduced-membership-fees">this list </a> was established by our Committee.
 More details on the advantages of membership can be found
 <a href="http://www.euro-math-soc.eu/individual-members">on the EMS website</a>. 
+* <b>Patronage</b>: We offer free patronage of eligible mathematical events in developing countries. If you are organising such an event, please consider filling out the form <a href="patronage">here</a>.
 
 # Past activities
  *  <b>Cambodian students</b>: We have supported a number of Cambodian students through their M.Sc. studies. In July 2013, we were
