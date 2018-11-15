@@ -42,15 +42,24 @@ layout: page
      * Guinea
      * Guinea-Bissau
      * Kenya
+     * Lesotho
      * Liberia
      * Malawi
      * Mali
      * Mauritania
+     * Mozambique
      * Niger
+     * Rwanda
+     * Senegal
      * Sierra Leone
      * Somalia
+     * Swaziland
      * Sudan
+     * Tanzania
      * Togo
+     * Uganda
+     * Zambia
+     * Zimbabwe
  * Europe and Central Asia
      * Albania
      * Armenia
@@ -61,4 +70,13 @@ layout: page
      * Tajikistan
      * Turkmenistan
      * Uzbekistan
+ * The Americas
+     * Belize
+     * Bolivia
+     * Dominican Republic
+     * El Salvador
+     * Guatemala
+     * Haiti
+     * Honduras
+     * Nicaragua
 

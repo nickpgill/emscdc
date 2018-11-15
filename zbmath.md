@@ -18,6 +18,4 @@ In general, to access the full features of zbMATH institutions have to
 
 zbMATH is also able to provide free access to participants in conferences and workshops in developing countries. In order to facilitate this, organisers should send a request to the above email some time before the conference takes place.
 
-More info on zbMATH: 
-[<a href = "zbposter.pdf">zbMATH poster</a> | <a href="IndividualReports/Greuel2015.php">Latest report to EMS-CDC</a>]
-
+More info on zbMATH is <a href = "zbposter.pdf">here</a>.
