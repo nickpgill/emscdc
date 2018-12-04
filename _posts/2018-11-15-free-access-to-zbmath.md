@@ -1,6 +1,6 @@
 ---
 title: 'Free access to zbMATH'
-date: 2018-12-15
+date: 2018-11-15
 author: nickgill
 layout: post
 ---
