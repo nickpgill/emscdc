@@ -6,7 +6,7 @@ layout: page
 
 ### EMS-Simons for Africa Programme
 
-There is an ongoing programme run in parallel by the EMS-CDC and the <a href = "https://www.simonsfoundation.org/">Simons Foundation</a>. 
+There is an ongoing programme run as a partnership between the EMS-CDC and the <a href = "https://www.simonsfoundation.org/">Simons Foundation</a>. 
 
 The aim is to promote individual career possibilities with the consequence of an improved global capacity in African academic institutions. The program is open to all areas of pure and applied mathematics and statistics and it is directed to fellows based in Africa.
 
