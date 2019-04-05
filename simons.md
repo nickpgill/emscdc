@@ -1,8 +1,10 @@
 ---
-title: 'EMS-Simons for Africa programme'
+title: 'Simons'
 ﻿author: nickgill
 layout: page
 ---
+
+### EMS-Simons for Africa Programme
 
 This is a reminder of the ongoing programme run in parallel by the EMS-CDC and the <a href = "https://www.simonsfoundation.org/">Simons Foundation</a>. 
 
