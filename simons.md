@@ -1,5 +1,5 @@
 ---
-title: 'Simons'
+title: Simons
 ﻿author: nickgill
 layout: page
 ---
