@@ -18,13 +18,9 @@ We aim to assist developing countries in all possible ways. Some examples:
 The CDC work is based on the volunteering participation of its members and associate members. We are full of ideas, and there is lots of work to be done.  We do not receive regular funding from our parent society <a href="http://euro-math-soc.eu/">EMS</a>, and so desperately need help from all mathematicians!
 
 # Meetings
-In 2018 the CDC will meet on Sigtuna, Sweden 6-7 April 2018. In 2017 the CDC met on 7-8 April at the Accademia dei Lincei, Rome, Italy.
+In 2019 the CDC met in Oxford, UK; in 2018 we met in Sigtuna, Sweden; in 2017 we met in, Rome, Italy.
 
 During its annual meetings the CDC organises a round table for reflecting around various topics related to the promotion of mathematics worldwide. These meetings feature the participation of the CDC associate members and some institutes, associations, and centres sharing some of the same goals as the CDC.
-
-The topic of this year's round table was: <i>Experiences about teaching mathematics:
-from the Montessori method to the Mediterranean Championship.
-The role of participation.</i>. More details can be found on the <a href="reports">reports page</a>.
 
 # Activities
 
