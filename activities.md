@@ -18,7 +18,7 @@ The application should contain:
     1. Applicant name, title, affiliation, address, email address
     2. Motivation and background for the application, context
     3. Sum requested and budget frame (amounts already available or requested to other sponsors)
-    4. Supporting material, e.g. CV, support letters, …
+    4. Supporting material, e.g. CV, support letters.\
 We expect a report to be sent to the email above after the funding has been received and used.
  * <b>Reduced EMS Membership</b>: A special reduced fee of 5€ for mathematicians who reside in a developing country from 
 <a href="http://www.euro-math-soc.eu/reduced-membership-fees">this list </a> was established by our Committee.
