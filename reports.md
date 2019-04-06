@@ -6,14 +6,7 @@ author: nickgill
 layout: page
 ---
 
-Below you will find a number of reports on the activities of individual members and associates of the CDC. One can also find reports on the round tables organised by the CDC on various themes around the development of the mathematics education, culture and research in developing countries. Finally you can find some reports of various associations and centres whose work is connected to that of the CDC.
-
-# 2019
-
-In 2019 the CDC met in Oxford, UK, 5-6 April 2019.
-
-# 2018
-In 2018 the CDC met in Sigtuna, Sweden, 6-7 April 2018.
+Below is a historical archive of various reports of the EMS-CDC.
 
 # 2017
 

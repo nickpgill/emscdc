@@ -27,8 +27,8 @@ More details on the advantages of membership can be found
 * <b>Patronage</b>: We offer free patronage of eligible mathematical events in developing countries. If you are organising such an event, please consider filling out the form <a href="patronage">here</a>.
  * <b>Agreement with <a href="http://www.zbmath.org/">zbMATH</a></b>: free access to ZbMath is available to mathematicians in developing countries. Details of this scheme are <a href="zbmath">here</a>.
  *  <b>Funding conferences</b>:  Decisions to support a conference are taken once a year, during our annual meeting in April. 
-We have funded participants to ICM06 in Madrid, a speaker to Mongolia, part of a <a href="http://www.cimpa-icpam.org/">CIMPA</a> 
-school, part of the <a href = "http://www.europeanwomeninmaths.org/resources/news/creation-awma-african-women-in-mathematics-association">2nd African Women Mathematics workshop</a>, and so on.
+We have funded participants to many conferences, including those organised by <a href="http://www.cimpa-icpam.org/">CIMPA</a> 
+school; those run by, and for <a href = "http://www.europeanwomeninmaths.org/resources/news/creation-awma-african-women-in-mathematics-association">African Women in Mathematics</a>; and so on.
  *  <b>Electronic access</b>: One member of the committee, <a href="http://math.golonka.org/">Anders Wandahl</a>,  has run <a href = "http://workshop.ems-cdc.org/doku.php">four workshops on electronic access</a>. The first, in Addis Ababa, was facilitated with a grant from the 
 <a href="http://www.mathunion.org/">International Mathematical Union (IMU)</a> and attracted 47 participants. The second took place in Bamako, Mali in November 2010 during a 
 <a href="http://www.cimpa-icpam.org/spip.php?article236">CIMPA Research 
@@ -63,9 +63,10 @@ Africa, South East Asia, and South and Central America.
 <br/><br/>
 Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.
 
-# Past activities
+# Past activities and reports
  *  <b>Cambodian students</b>: We have supported a number of Cambodian students through their M.Sc. studies. In July 2013, we were
 very pleased to receive news of the <a href = "http://www.lepetitjournal.com/cambodge/accueil/en-bref/159798-diplome-le-1er-docteur-en-math-du-cambodge">first PhD student in mathematics in Cambodia</a>.
- * <b>Conference discussions</b> We held a roundtable at 5ECM and a discussion group at ICM10.
+ * <b>Conference discussions</b>: We held a roundtable at 5ECM and a discussion group at ICM10.
  *  <b>Twinning</b>: Until 2012 we had a <a href = "twinning">twinning scheme</a> under which we could provide a starting seed grant of around 500 Euros to facilitate the twinning of departments in developed and developing regions. Since this program was not active for many months, it is is not continued, but we could revive it in case of need.
+ * **Reports**: Past reports from the EMS-CDC committee and its members can be found <a href = "reports.md">here</a>.
 
