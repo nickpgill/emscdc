@@ -1,5 +1,5 @@
 ---
-title: 'Interview with EMS-CDC member'
+title: 'Interview with EMS-CDC people'
 date: 2019-04-07
 author: nickgill
 layout: post
