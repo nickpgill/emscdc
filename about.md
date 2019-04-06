@@ -24,7 +24,7 @@ The CDC work is based on the volunteering participation of its members and assoc
 
 # Contact
 
-To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our  If you would like to make a donation to support our work, please go <a href = "http://euro-math-soc.eu/ems_payment_new/ems_cdc_donation.html">here</a>.
+To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our <a href = "member">members</a> directly. If you would like to make a donation to support our work, please go <a href = "http://euro-math-soc.eu/ems_payment_new/ems_cdc_donation.html">here</a>.
 
 
 
