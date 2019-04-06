@@ -15,9 +15,9 @@ layout: page
 <tr>
 <td><b>Name</b></td><td><b>E-name</b></td><td><b>Domain</b></td></tr>
 <tr><td><a href = "http://perso.univ-perp.fr/aussel/">Didier Aussel</a> (Perpignan) </td><td>aussel</td><td>univ-perp.fr</td></tr>
-<tr><td>**Chair**: <a href="http://perso.univ-lille3.fr/~sdabo/">Sophie Dabo</a> (Lille)</td><td>sophie.dabo</td><td>univ-lille3.fr</td></tr>
+<tr><td><b>Chair</b>: <a href="http://perso.univ-lille3.fr/~sdabo/">Sophie Dabo</a> (Lille)</td><td>sophie.dabo</td><td>univ-lille3.fr</td></tr>
 <tr><td><a href="https://www.iag.uni-hannover.de/hulek.html">Klaus Hulek</a> (Hannover)</td><td>hulek</td><td>math.uni-hannover.de</td></tr> 
-<tr><td>**Vice Chair**: <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
+<tr><td><b>Vice Chair</b>:  <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
 <tr><td><a href = "https://people.maths.ox.ac.uk/szendroi/">Balazs Szendroi</a> (Oxford) </td><td>szendroi</td><td>maths.ox.ac.uk</td></tr>
 <tr><td><a href="https://liu.se/en/employee/bentu07">Bengt-Ove Turesson</a> (Linköping) </td><td>bengt-ove.turesson</td><td>liu.se</td></tr>
