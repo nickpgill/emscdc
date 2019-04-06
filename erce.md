@@ -5,7 +5,7 @@ date: 2014-03-11T19:18:39+00:00
 author: nickgill
 layout: page
 ---
-Information on the seven current <b>Emerging Regional Centres of Excellence (ERCE)</b> centres is available in the links below. 
+Information on the seven <b>Emerging Regional Centres of Excellence (ERCE)</b> centres is available in the links below. 
 
  * 2013-17: <a href = "erce_cimat">CIMAT</a> I <a href = "erce_viasm">VIASM</a>;
  * 2014-18: <a href = "erce_iasbs">IASBS</a> I <a href = "erce_inspem">INSPEM</a>;
