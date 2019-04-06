@@ -68,5 +68,5 @@ Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.
 very pleased to receive news of the <a href = "http://www.lepetitjournal.com/cambodge/accueil/en-bref/159798-diplome-le-1er-docteur-en-math-du-cambodge">first PhD student in mathematics in Cambodia</a>.
  * <b>Conference discussions</b>: We held a roundtable at 5ECM and a discussion group at ICM10.
  *  <b>Twinning</b>: Until 2012 we had a <a href = "twinning">twinning scheme</a> under which we could provide a starting seed grant of around 500 Euros to facilitate the twinning of departments in developed and developing regions. Since this program was not active for many months, it is is not continued, but we could revive it in case of need.
- * **Reports**: Past reports from the EMS-CDC committee and its members can be found <a href = "reports.md">here</a>.
+ * **Reports**: Past reports from the EMS-CDC committee and its members can be found <a href = "reports">here</a>.
 
