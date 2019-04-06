@@ -7,7 +7,9 @@ layout: page
 ---
 The Committee for Developing Countries is a committee of the <a href="http://euro-math-soc.eu/" title="The European Mathematical Society">European Mathematical Society (EMS)</a>; its terms of reference can be found <a href = "http://www.euro-math-soc.eu/committee/developing-countries">here</a>. We presented a <a href = "poster2018.pdf">poster</a> at ICM2018 which describes our recent work.
 
-To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our <a href = "members">members</a> directly. If you would like to make a donation to support our work, please go <a href = "http://euro-math-soc.eu/ems_payment_new/ems_cdc_donation.html">here</a>.
+# Members
+
+A full list of our members can be found <a href = "members">here</a>.
 
 # Aims and Objectives
 We aim to assist developing countries in all possible ways. Some examples:
@@ -20,6 +22,9 @@ We aim to assist developing countries in all possible ways. Some examples:
 
 The CDC work is based on the volunteering participation of its members and associate members. We are full of ideas, and there is lots of work to be done.  We do not receive regular funding from our parent society <a href="http://euro-math-soc.eu/">EMS</a>, and so desperately need help from all mathematicians!
 
+# Contact
+
+To contact the CDC, please email <a href = "mailto:cdc-chair@ems-cdc.org">cdc-chair@ems-cdc.org</a>, or contact one of our  If you would like to make a donation to support our work, please go <a href = "http://euro-math-soc.eu/ems_payment_new/ems_cdc_donation.html">here</a>.
 
 
 
