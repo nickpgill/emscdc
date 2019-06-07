@@ -5,4 +5,4 @@ author: nickgill
 layout: post
 ---
 
-The CDC recently held its Annual General Meeting. The minutes from that meeting can be found <a href = "/minutes_2019_short.pdf">here</a>.
+The CDC recently held its Annual General Meeting. The minutes from that meeting can be found <a href = "/emscdc/minutes_2019_short.pdf">here</a>.
