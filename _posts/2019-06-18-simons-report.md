@@ -30,44 +30,23 @@ The following tables summarise the applications and grants that have been awarde
 ### 2018
 
 At the four deadlines of 2018, we have evaluated 44 applications. 
-Type
 
 | Type | No. of applications (f/m) | No. of applications approved (f/m) | No. of approved months |
 | ---- | ------------------------- | ---------------------------------- | ---------------------- |
 | A1   | 3/12                      |     2/7                            |     14                 | 
 | A2   | 4/11                      |  3/5                               | 31                     |
-| B    |  4/0                      |  0/0                                | 0                      |
-| C    | 7/3                       |  0/1                                | 0                      |
+| B    |  4/0                      |  0/0                                | n/a                      |
+| C    | 7/3                       |  0/1                                | n/a                    |
 
 ### 2017
 
 At the four deadlines of 2017, we have evaluated 42 applications. 
 
-Type
-#applicants
-Gender : f/m
-# applications approved : f/m
-# approved months
-A1
-18
-1/17
-0/11
-18,5
-A2
-11
-5/6
-4/5
-27
-B
-11
-11/0
-0/0
-
-C
-2
-0/2
-0/0
-
-
+| Type | No. of applications (f/m) | No. of applications approved (f/m) | No. of approved months |
+| ---- | ------------------------- | ---------------------------------- | ---------------------- |
+| A1   | 1/17                      |     0/11                            |     18.5               | 
+| A2   | 5/6                      |  4/5                               | 27                     |
+| B    |  11/0                      |  0/0                                | n/a                     |
+| C    | 0/2                       |  0/0                                | n/a                      |
 
 
