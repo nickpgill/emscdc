@@ -5,9 +5,9 @@ author: nickgill
 layout: post
 ---
 
-This document gives a brief report on activities 2017 -- 18.
+This document gives a brief report on activities funded by the EMS-Simons for Africa programme in 2017 -- 18. More details on the scheme, including information about how to apply can be found <a href = "https://euro-math-soc.eu/ems-simons-africa">here</a>.
  
-### Overview of the scheme
+### Brief overview of the scheme
 
 The program directed to fellows based in Africa, consists in providing different grants for research visit to foster research opportunities both for young and established researchers working on all areas of pure and applied mathematics and statistics.
 
