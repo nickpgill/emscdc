@@ -49,4 +49,6 @@ At the four deadlines of 2017, we have evaluated 42 applications.
 | B    |  11/0                      |  0/0                                | n/a                     |
 | C    | 0/2                       |  0/0                                | n/a                      |
 
+Please note: the poor update of B and C type funding can be attributed to the fact that a number of applicants did not appreciate that these schemes were designed to top up funding from schemes A1 and A2. Future applicants are advised to bear this in mind!
+
 
