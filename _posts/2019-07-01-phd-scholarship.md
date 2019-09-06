@@ -5,7 +5,7 @@ author: nickgill
 layout: post
 ---
 
-Expressions of interest are now open for the UNSW Scientia PhD Scholarship Scheme which provides individualised support and a generous funding package for career development. We are looking for candidates for a project on <a href = "https://www.scientia.unsw.edu.au/scientia-phd-scholarships/long-term-care-insurance-and-services-china>Long-Term Care Insurance and Services in China</a>. Applications close 12 July
+Expressions of interest are now open for the UNSW Scientia PhD Scholarship Scheme which provides individualised support and a generous funding package for career development. We are looking for candidates for a project on <a href = "https://www.scientia.unsw.edu.au/scientia-phd-scholarships/long-term-care-insurance-and-services-china">Long-Term Care Insurance and Services in China</a>. Applications close 12 July
 
 
 **PROJECT DESCRIPTION**: This project studies the development of long-term care insurance and services in China. The project will make three contributions: 
