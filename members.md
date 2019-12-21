@@ -16,6 +16,7 @@ layout: page
 <td><b>Name</b></td><td><b>E-name</b></td><td><b>Domain</b></td></tr>
 <tr><td><a href = "http://perso.univ-perp.fr/aussel/">Didier Aussel</a> (Perpignan) </td><td>aussel</td><td>univ-perp.fr</td></tr>
 <tr><td><b>Chair</b>: <a href="http://perso.univ-lille3.fr/~sdabo/">Sophie Dabo</a> (Lille)</td><td>sophie.dabo</td><td>univ-lille3.fr</td></tr>
+<tr><td><b>Webmaster</b>: <a href="http://boolesrings.org/nickgill">Nick Gill</a> (South Wales)</td><td>nick.gill</td><td>southwales.ac.uk</td></tr>
 <tr><td><a href="https://www.iag.uni-hannover.de/hulek.html">Klaus Hulek</a> (Hannover)</td><td>hulek</td><td>math.uni-hannover.de</td></tr> 
 <tr><td><b>Vice Chair</b>:  <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
@@ -38,16 +39,20 @@ layout: page
 <tr><td><a href = "http://pages.di.unipi.it/luccio/">Fabrizio Luccio</a> (Pisa) </td><td>luccio</td><td>di.unipi.it</td></tr> 
 <tr><td><a href = "http://www.unilim.fr/pages_perso/michel.thera/">Michel Thera</a> (Limoges) </td><td>thera</td><td>unilim.fr </td></tr>
 <tr><td><a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a> (Paris)</td><td>miw</td><td>math.jussieu.fr</td></tr>
-<tr><td><a href="http://www.maths.ox.ac.uk/~tsou/">Tsou Sheung Tsun</a> (Oxford)</td><td>tsou</td><td>maths.ox.ac.uk</td></tr>
+#<tr><td><a href="http://www.maths.ox.ac.uk/~tsou/">Tsou Sheung Tsun</a> (Oxford)</td><td>tsou</td><td>maths.ox.ac.uk</td></tr>
 <tr><td><a href="http://www.golonka.se/">Anders Wandahl</a> (Stockholm)</td><td>anders</td><td>golonka.se</td></tr>
 <tr><td><a href="http://perso.univ-rennes1.fr/marie-francoise.roy/">Marie-Francoise Roy</a> (Rennes)</td><td>marie-francoise.roy</td><td>univ-rennes1.fr</td></tr>
 <tr><td>Michel Jambu (Nice)</td><td>jambu</td><td>unice.fr</td></tr>
 <tr><td>Herbert Fleischner (Vienna)</td><td>fleisch</td><td>dbai.tuwien.ac.at</td></tr>
-<tr><td><b>Webmaster</b>: <a href="http://boolesrings.org/nickgill">Nick Gill</a> (South Wales)</td><td>nick.gill</td><td>southwales.ac.uk</td></tr>
 <tr><td><a  href="http://math.unice.fr/~rifford/">Ludovic Rifford</a> (Nice)</td><td>ludovic.rifford</td><td>math.cnrs.fr</td></tr>
+<tr><td><a href = "https://sites.google.com/view/mouhamedmoustaphafall">Mouhamed Moustapha Fall</a> (AIMS Senegal)</td><td>mouhamed.m.fall</td><td>aims-senegal.org </td></tr>
+<tr><td><a href = "https://www.researchgate.net/profile/Fatima_Aboud">Fatima Aboud</a> (Dyala - IRAQ)</td><td>Fatima.Aboud</td><td>sciences.uodiyala.edu.iq</td></tr>
 <tr><td><a href="http://www.mat.ucm.es/~bvitoria/">Begoña Vitoriano Villanueva</a> (Madrid)</td><td>bvitoriano</td><td>mat.ucm.es</td></tr>
 <tr><td><a href="https://sites.google.com/site/annafino/home">Anno Fino</a> (Turin)</td><td>annamaria.fino</td><td>unito.it</td></tr>
 </table>
+
+  and   
+
 <p>
 <i> In memoriam</i> :
 <a href="MikaelPassare"> Mikael Passare </a>
