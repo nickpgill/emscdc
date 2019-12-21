@@ -15,4 +15,4 @@ centres are among those which play an important role in training students in the
 region, particularly more students from less developed areas.
 
 With the success of this scheme the committee is now opening a new call for
-applications. Details of this scheme are <a href = "/Call-ERCE-2020-EMS.pdf">here</a>. The application has to be sent by e-mail to the address **ems-office@helsinki.fi**. The deadline for this application is February 15th, 2020.
+applications. Details of this scheme are <a href = "/emscdc/Call-EMS-ERCE-2020.pdf">here</a>. The application has to be sent by e-mail to the address **ems-office@helsinki.fi**. The deadline for this application is February 15th, 2020.
