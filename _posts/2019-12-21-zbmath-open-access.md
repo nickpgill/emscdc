@@ -1,17 +1,15 @@
 ---
-title: 'ERCE grant call'
-date: 2019-12-01
+title: 'ZbMath Open Access'
+date: 2019-12-21
 author: nickgill
 layout: post
 ---
 
-We have recently put out a call to our <a href="erce.php">ERCE centres</a> because the EMS has made some funds available for visits and conferences at the centres.
 
-If you are putting in an application, then please remember that we need the following information:
-- CV of the applicants
-- letters of support
-- full details on motivation, description, structure, impact of the research visit/activity proposed
-- Budget request detailed description
-- Other relevant information
 
-When you have this information available, please email it to **nick.gill@southwales.ac.uk**
+Great news! The online index and reviewing service, <a href = "http://zbmath.org">ZbMath</a>, is to become open access from the start of 2021. This will be of great benefit to mathematicians in developing countries, and we applaud the team at ZbMath for making this happen.
+
+If, in the meantime, mathematicians from developing countries would like to access ZbMath, then this is possible. Details of how to make this happen are <a href="https://nickpgill.github.io/emscdc/zbmath">here</a>.
+
+More information on the move to open access is available <a href = "https://www.fiz-karlsruhe.de/en/nachricht/zbmath-open-informationen-fuer-die-mathematik-werden-frei-zugaenglich">here</a>.
+
