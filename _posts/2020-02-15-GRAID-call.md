@@ -22,6 +22,6 @@ This program is managed by the GRAID Subcommittee and the American Mathematical 
 For more information please visit <a href="https://www.mathunion.org/cdc/scholarshipsgraduate-scholarships/graduate-assistantships-developing-countries">here</a>.
  
 
-##Call for Donations to the GRAID Program
+### Call for Donations to the GRAID Program
 
 Funding for GRAID is provided by voluntary donations from mathematicians or mathematical institutions worldwide. IMU-CDC acknowledges and encourages donations to GRAID that can be done via the <a href = "http://friends-imu.org/donate/#graid">Friends of IMU website</a>.
