@@ -7,7 +7,7 @@ layout: page
 ---
 Information on the seven <b>Emerging Regional Centres of Excellence (ERCE)</b> centres is available in the links below. 
 
- * 2014-18: <a href = "erce_viasm">VIASM</a> I <a href = "erce_inspem">INSPEM</a>;
+ * 2019-23: <a href = "erce_viasm">VIASM</a> I <a href = "erce_inspem">INSPEM</a>;
  * 2020-24: <a href = "erce_aust">AUST</a> I <a href = "erce_zlam">ZLAM</a>;
  * 2021-25: <a href = "erce_imsp">IMSP</a>  <a href = "erce_uca">UCA</a> I <a href = "erce_itb">ITB</a>.
 
@@ -43,5 +43,7 @@ In sum, ERCE centres play a crucial role in the mathematical education and the d
  *  increasing the visibility and prestige of the centre itself.
 
 Thanks to this scheme, the ERCE centres provide education in less developed regions and will, in exchange, get help to further develop themselves. It looks to be a very advantageous scheme for all: at the same time, with relatively small expenditure a larger number of students can receive their first graduate education, in a culture not too removed from their own. This will be a practical and efficient way for mathematicians to help other mathematicians.
+
+Previous holders of the ERCE label: <a href = "erce_ub">UB</a> I <a href = "erce_cimat">CIMAT</a> I <a href = "erce_cimat">CIMAT</a> I <a href = "erce_assms">ASSMS</a>
 
 
