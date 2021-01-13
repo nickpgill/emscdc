@@ -8,7 +8,7 @@ layout: page
 Information on the seven <b>Emerging Regional Centres of Excellence (ERCE)</b> centres is available in the links below. 
 
  * 2019-23: <a href = "erce_viasm">VIASM</a> ;
- * 2022-25: <a href = "erce_aust">AUST</a> I <a href = "erce_zlam">ZLAM</a> | <a href = "erce_imsp">IMSP</a> I <a href = "erce_uca">UCA</a> I <a href = "erce_itb">ITB</a> I <a href = "erce_inspem">INSPEM</a>.
+ * 2022-25: <a href = "erce_aust">AUST</a> I <a href = "erce_zlam">ZLAM</a> I <a href = "erce_imsp">IMSP</a> I <a href = "erce_uca">UCA</a> I <a href = "erce_itb">ITB</a> I <a href = "erce_inspem">INSPEM</a>.
 
 <p>
 <table width="100%" border="1">
