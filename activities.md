@@ -12,7 +12,7 @@ We started work in earnest in 2002. Since then we have expanded our aims and bee
 This is a label of quality endorsed to such centres that offer training to Master and possibly PhD level to students from less developed countries in their regions and in such way effectively promote the  mathematics education and research development. For more details see <a href = "erce">here</a>.
  * <b>Work with the Simons Foundation</b>: In November 2016, with the support of the <a href="http://www.simonsfoundation.org">Simons Foundation</a>, the CDC opened a program of research visits to foster research opportunities for young and established researchers. For more details see <a href = "simons">here</a>.
  * <b>Financial Support</b>: The CDC has a limited funding substantially from donor. This is used to in agreement with the aims and objectives of the CDC. 
-A formal application for funding should be sent to the CDC at <i>CDC-apply@ems-cdc.org</i> by 15th March each year.
+A formal application for funding should be sent to the CDC by 15th March each year. Please email the following addresses: *sophie.dabo@univ-lille.fr* | *pappa@mat.uniroma3.it* | *nick.gill@southwales.ac.uk*
 The requests will be considered by the CDC at its annual meeting and decision will be made.
 The application should contain:
     1. Applicant name, title, affiliation, address, email address
@@ -38,7 +38,7 @@ Members of <b>Electronic access subcommittee</b>:
 <i>	 
 <a href="http://www.dm.unito.it/~fino/">Anna Fino</a>,   	
 <a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a>,
-<a href="http://math.golonka.org/">Anders Wandahl</a></i> (Chair of the subcommittee).  The CDC is open to facilitate such activity at request of interested parties. To present a motion of interest please contact <i>CDC-apply@ems-cdc.org</i>.
+<a href="http://math.golonka.org/">Anders Wandahl</a></i> (Chair of the subcommittee).  The CDC is open to facilitate such activity at request of interested parties. To present a motion of interest please email the following addresses: *sophie.dabo@univ-lille.fr* | *pappa@mat.uniroma3.it* | *nick.gill@southwales.ac.uk*
  * <b>Mentoring</b>: We participate in the project entitled <a href="http://www.lms.ac.uk/grants/mentoring-african-research-mathematics">Mentoring African Research Mathematics (MARM)</a>.
  *  <b>Book donation scheme</b>: We aim to send books donated by mathematicians in
 the developed world to institutes and departments in the developing
@@ -61,7 +61,7 @@ financially, on a case-by-case basis, by
 and also our own very limited funds. We have moved tens of tonnes of books and journals, from Europe, USA and Canada, to 
 Africa, South East Asia, and South and Central America. 
 <br/><br/>
-Possible donor or recipients can contact <i>CDC-books@ems-cdc.org</i>.
+Possible donor or recipients can email the following addresses: *sophie.dabo@univ-lille.fr* | *pappa@mat.uniroma3.it* | *nick.gill@southwales.ac.uk*
 
 # Past activities and reports
  *  <b>Cambodian students</b>: We have supported a number of Cambodian students through their M.Sc. studies. In July 2013, we were
