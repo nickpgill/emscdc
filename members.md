@@ -44,7 +44,7 @@ layout: page
 <tr><td><a href="http://perso.univ-rennes1.fr/marie-francoise.roy/">Marie-Francoise Roy</a> (Rennes)</td><td>marie-francoise.roy</td><td>univ-rennes1.fr</td></tr>
 <tr><td>Michel Jambu (Nice)</td><td>jambu</td><td>unice.fr</td></tr>
 <tr><td>Herbert Fleischner (Vienna)</td><td>fleisch</td><td>dbai.tuwien.ac.at</td></tr>
-<tr><td><a  href="http://math.unice.fr/~rifford/">Ludovic Rifford</a> (Nice)</td><td>ludovic.rifford</td><td>math.cnrs.fr</td></tr>
+<tr><td><a  href="https://perso.univ-rennes1.fr/christophe.ritzenthaler/">Christophe Rigzenthaler</a> (Nice / CIMPA)</td><td>director</td><td>cimpa.info</td></tr>
 <tr><td><a href = "https://sites.google.com/view/mouhamedmoustaphafall">Mouhamed Moustapha Fall</a> (AIMS Senegal)</td><td>mouhamed.m.fall</td><td>aims-senegal.org </td></tr>
 <tr><td><a href = "https://www.researchgate.net/profile/Fatima_Aboud">Fatima Aboud</a> (Dyala - IRAQ)</td><td>Fatima.Aboud</td><td>sciences.uodiyala.edu.iq</td></tr>
 <tr><td><a href="http://www.mat.ucm.es/~bvitoria/">Begoña Vitoriano Villanueva</a> (Madrid)</td><td>bvitoriano</td><td>mat.ucm.es</td></tr>
