@@ -36,7 +36,6 @@ layout: page
 <tr><td><a href="http://www.mat.uc.pt/~cmuc/peoplehome.php?tp=&pid=105">Joana Teles</a> (Coimbra)</td><td>jteles</td><td>mat.uc.pt</td></tr>
 <tr><td><a href="http://folk.uio.no/giulian/">Giulia di Nunno</a>
 (Oslo)</td><td>giulian</td><td>math.uio.no</td></tr>
-<tr><td><a href = "http://pages.di.unipi.ips
 <tr><td><a href = "http://www.unilim.fr/pages_perso/michel.thera/">Michel Thera</a> (Limoges) </td><td>thera</td><td>unilim.fr </td></tr>
 <tr><td><a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a> (Paris)</td><td>miw</td><td>math.jussieu.fr</td></tr>
 #<tr><td><a href="http://www.maths.ox.ac.uk/~tsou/">Tsou Sheung Tsun</a> (Oxford)</td><td>tsou</td><td>maths.ox.ac.uk</td></tr>
