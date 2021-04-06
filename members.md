@@ -36,7 +36,7 @@ layout: page
 <tr><td><a href="http://www.mat.uc.pt/~cmuc/peoplehome.php?tp=&pid=105">Joana Teles</a> (Coimbra)</td><td>jteles</td><td>mat.uc.pt</td></tr>
 <tr><td><a href="http://folk.uio.no/giulian/">Giulia di Nunno</a>
 (Oslo)</td><td>giulian</td><td>math.uio.no</td></tr>
-<tr><td><a href = "http://pages.di.unipi.it/luccio/">Fabrizio Luccio</a> (Pisa) </td><td>luccio</td><td>di.unipi.it</td></tr> 
+<tr><td><a href = "http://pages.di.unipi.ips
 <tr><td><a href = "http://www.unilim.fr/pages_perso/michel.thera/">Michel Thera</a> (Limoges) </td><td>thera</td><td>unilim.fr </td></tr>
 <tr><td><a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a> (Paris)</td><td>miw</td><td>math.jussieu.fr</td></tr>
 #<tr><td><a href="http://www.maths.ox.ac.uk/~tsou/">Tsou Sheung Tsun</a> (Oxford)</td><td>tsou</td><td>maths.ox.ac.uk</td></tr>
@@ -44,11 +44,11 @@ layout: page
 <tr><td><a href="http://perso.univ-rennes1.fr/marie-francoise.roy/">Marie-Francoise Roy</a> (Rennes)</td><td>marie-francoise.roy</td><td>univ-rennes1.fr</td></tr>
 <tr><td>Michel Jambu (Nice)</td><td>jambu</td><td>unice.fr</td></tr>
 <tr><td>Herbert Fleischner (Vienna)</td><td>fleisch</td><td>dbai.tuwien.ac.at</td></tr>
-<tr><td><a  href="https://perso.univ-rennes1.fr/christophe.ritzenthaler/">Christophe Rigzenthaler</a> (Nice / CIMPA)</td><td>director</td><td>cimpa.info</td></tr>
+<tr><td><a  href="https://perso.univ-rennes1.fr/christophe.ritzenthaler/">Christophe Ritzenthaler</a> (Nice / CIMPA)</td><td>director</td><td>cimpa.info</td></tr>
 <tr><td><a href = "https://sites.google.com/view/mouhamedmoustaphafall">Mouhamed Moustapha Fall</a> (AIMS Senegal)</td><td>mouhamed.m.fall</td><td>aims-senegal.org </td></tr>
 <tr><td><a href = "https://www.researchgate.net/profile/Fatima_Aboud">Fatima Aboud</a> (Dyala - IRAQ)</td><td>Fatima.Aboud</td><td>sciences.uodiyala.edu.iq</td></tr>
 <tr><td><a href="http://www.mat.ucm.es/~bvitoria/">Begoña Vitoriano Villanueva</a> (Madrid)</td><td>bvitoriano</td><td>mat.ucm.es</td></tr>
-<tr><td><a href="https://sites.google.com/site/annafino/home">Anno Fino</a> (Turin)</td><td>annamaria.fino</td><td>unito.it</td></tr>
+<tr><td><a href="https://sites.google.com/site/annafino/home">Anna Fino</a> (Turin)</td><td>annamaria.fino</td><td>unito.it</td></tr>
 </table>
 
   and   
