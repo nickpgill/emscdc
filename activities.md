@@ -12,8 +12,8 @@ We started work in earnest in 2002. Since then we have expanded our aims and bee
 This is a label of quality endorsed to such centres that offer training to Master and possibly PhD level to students from less developed countries in their regions and in such way effectively promote the  mathematics education and research development. For more details see <a href = "erce">here</a>.
  * <b>Work with the Simons Foundation</b>: In November 2016, with the support of the <a href="http://www.simonsfoundation.org">Simons Foundation</a>, the CDC opened a program of research visits to foster research opportunities for young and established researchers. For more details see <a href = "simons">here</a>.
  * <b>Financial Support</b>: The CDC has a limited funding substantially from donor. This is used to in agreement with the aims and objectives of the CDC. 
-A formal application for funding should be sent to the CDC by 15th March each year. Please email the following addresses: *sophie.dabo@univ-lille.fr* I *pappa@mat.uniroma3.it* I *nick.gill@southwales.ac.uk*
-The requests will be considered by the CDC at its annual meeting and decision will be made.
+A formal application for funding should be sent to the CDC by 15th March  or 15th September each year. Please email the following addresses: *sophie.dabo@univ-lille.fr* I *pappa@mat.uniroma3.it* I *nick.gill@southwales.ac.uk*
+We will consider requests that are in line with our <a href = "about">aims and objectives</a>. The requests will be considered by the CDC at its annual meeting and decision will be made.
 The application should contain:
     1. Applicant name, title, affiliation, address, email address
     2. Motivation and background for the application, context

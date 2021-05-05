@@ -12,7 +12,7 @@ The Committee for Developing Countries is a committee of the <a href="http://eur
 A full list of our members can be found <a href = "members">here</a>.
 
 # Aims and Objectives
-We aim to assist developing countries in all possible ways. Some examples:
+We aim to assist developing countries in the following ways:
  * the development of mathematics curricula;
  * cooperation with local staff in conducting M.Sc. and Ph.D. programs;
  * helping to build up libraries;
