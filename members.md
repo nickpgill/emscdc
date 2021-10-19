@@ -16,7 +16,7 @@ layout: page
 <td><b>Name</b></td><td><b>E-name</b></td><td><b>Domain</b></td></tr>
 <tr><td><a href = "http://perso.univ-perp.fr/aussel/">Didier Aussel</a> (Perpignan) </td><td>aussel</td><td>univ-perp.fr</td></tr>
 <tr><td><b>Chair</b>: <a href="http://perso.univ-lille3.fr/~sdabo/">Sophie Dabo</a> (Lille)</td><td>sophie.dabo</td><td>univ-lille3.fr</td></tr>
-<tr><td><b>Webmaster</b>: <a href="http://boolesrings.org/nickgill">Nick Gill</a> (South Wales)</td><td>nick.gill</td><td>southwales.ac.uk</td></tr>
+<tr><td><b>Webmaster</b>: <a href="http://nickpgill.github.io">Nick Gill</a> (Open University)</td><td>nick.gill</td><td>open.ac.uk</td></tr>
 <tr><td><a href="https://www.iag.uni-hannover.de/hulek.html">Klaus Hulek</a> (Hannover)</td><td>hulek</td><td>math.uni-hannover.de</td></tr> 
 <tr><td><b>Vice Chair</b>:  <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
