@@ -1,6 +1,6 @@
 ---
 title: 'Ibni Prize Applications'
-date: 2022-11-25
+date: 2021-10-25
 author: nickgill
 layout: post
 ---
