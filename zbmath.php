@@ -25,15 +25,8 @@ available on the site. Other features include access to author
 profiles including citation profiles, links to full texts, a database
 of mathematical software (<a href = "http://www.swmath.org">www.swmath.org</a>) and more.
 </p><p>
-In general, to access the full features of zbMATH institutions have to
-<a href="https://zbmath.org/subscription/">pay a subscription</a>. However, zbMATH provides free access to a large number of developing countries. The list of these countries is <a href = "zbmath2.php">here</a>. Please ask for free access by writing an email to:<br><img src="zbmail.jpg">
-</p>
-<p>
-zbMATH is also able to provide free access to participants in conferences and workshops in developing countries. In order to facilitate this, organisers should send a request to the above email some time before the conference takes place.
+We are happy to report that ZbMath is now <b>free to use</b>" This is a fantastic service to the mathematics community and it is wonderful that students and researchers from all over the world have free access to this resource.
 </p> 
-<p>
-More info on zbMATH: [<a href = "zbposter.pdf">zbMATH poster</a> | <a href="IndividualReports/Greuel2015.php">Latest report to EMS-CDC</a>]
-</p>
 
 <?php include("includes/bottombit.php"); ?>
 
