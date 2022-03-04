@@ -18,9 +18,9 @@ Open calls are focussed on the following areas:
     B. Top-up grants for women
     C. Top-up grants for conference participation
 
-For all applications there are four deadlines each year during 2017-2021:
+For all applications there are four deadlines each year during 2017-2022:
 
-    February 15th **extended to March 20th**
+    February 15th ** for 2022 we have extended to March 20th**
     May 15th
     September 15th
     November 15th
