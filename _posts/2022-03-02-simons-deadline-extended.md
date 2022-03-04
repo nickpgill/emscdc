@@ -1,6 +1,6 @@
 ---
-title: 'EMS Simons grants for Africa'
-date: 2021-11-01
+title: 'Simons deadline extended'
+date: 2022-03-02
 author: nickgill
 layout: post
 ---
