@@ -7,7 +7,7 @@ layout: post
 
 A reminder of our ongoing program of grants in association with the Simons Foundation:
 
-EThe African Continent is very diversified and the development of a career in
+The African Continent is very diversified and the development of a career in
 mathematics faces different and sometimes difficult progression. The
 Committee for Developing Countries (CDC) of the EMS, with the support
 of the Simons Foundation, has opened a program of research visits to foster
