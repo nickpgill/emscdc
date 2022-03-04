@@ -57,7 +57,7 @@ layout: page
 
 <p>
 <i> In memoriam</i> :
-<a href="MikaelPassare"> Mikael Passare </a>
+<a href="MikaelPassare"> Mikael Passare </a> and <a href = "https://nickpgill.github.io/emscdc//2021/09/22/andreas-griewank">Andreas Griewank</a>
 </p>
 
 
