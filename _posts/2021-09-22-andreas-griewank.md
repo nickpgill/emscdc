@@ -9,5 +9,7 @@ We were very sorry to hear of the death of Andreas Griewank. Andreas passed away
 
 Our thoughts are with Andreas' family.
 
+**January 2022** Our update to Andreas in the EMS newsletter can be found <a href = "https://ems.press/content/serial-article-files/17931">here</a>.
+
 
 
