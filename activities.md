@@ -24,7 +24,6 @@ We expect a report to be sent to the email above after the funding has been rece
 <a href="http://www.euro-math-soc.eu/reduced-membership-fees">this list </a> was established by our Committee.
 More details on the advantages of membership can be found
 <a href="http://www.euro-math-soc.eu/individual-members">on the EMS website</a>. 
-# * <b>Patronage</b>: We offer free patronage of eligible mathematical events in developing countries. If you are organising such an event, please consider filling out the form <a href="patronage">here</a>.
  * <b>Maths indexing from <a href="http://www.zbmath.org/">zbMATH</a></b>: Access is now free to all. Full information <a href="zbmath">here</a>.
  *  <b>Funding conferences</b>:  Decisions to support a conference are taken once a year, during our annual meeting in April. 
 We have funded participants to many conferences, including those organised by <a href="http://www.cimpa-icpam.org/">CIMPA</a> 
