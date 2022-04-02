@@ -27,7 +27,7 @@ layout: page
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
 <tr><td><a href = "https://people.maths.ox.ac.uk/szendroi/">Balazs Szendroi</a> (Oxford) </td><td>szendroi</td><td>maths.ox.ac.uk</td></tr>
 <tr><td><a href="https://liu.se/en/employee/bentu07">Bengt-Ove Turesson</a> (Linköping) </td><td>bengt-ove.turesson</td><td>liu.se</td></tr>
-<tr><td><b>EC liaison</b>:<a href = "http://www.helsinki.fi/~mgyllenb/">Mats Gyllenberg</a> (Helsinki)</td><td>mats.gyllenberg</td><td>helsinki.fi</td></tr>
+<tr><td><b>EC liaison</b>: <a href = "http://www.helsinki.fi/~mgyllenb/">Mats Gyllenberg</a> (Helsinki)</td><td>mats.gyllenberg</td><td>helsinki.fi</td></tr>
 </table>
 <h2>Associates</h2>
 <table>
