@@ -27,7 +27,6 @@ layout: page
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
 <tr><td><a href = "https://people.maths.ox.ac.uk/szendroi/">Balazs Szendroi</a> (Oxford) </td><td>szendroi</td><td>maths.ox.ac.uk</td></tr>
 <tr><td><a href="https://liu.se/en/employee/bentu07">Bengt-Ove Turesson</a> (Linköping) </td><td>bengt-ove.turesson</td><td>liu.se</td></tr>
-<h2><a href="http://euro-math-soc.eu/comm-executive.html">EC</a> liaison</h2>
 <table>
 <tr><td><a href = "http://www.helsinki.fi/~mgyllenb/">Mats Gyllenberg</a> (Helsinki)</td><td>mats.gyllenberg</td><td>helsinki.fi</td></tr>
 </table>
@@ -42,7 +41,6 @@ layout: page
 <tr><td><a href="http://www.mat.uc.pt/~cmuc/peoplehome.php?tp=&pid=105">Joana Teles</a> (Coimbra)</td><td>jteles</td><td>mat.uc.pt</td></tr>
 <tr><td><a href = "http://www.unilim.fr/pages_perso/michel.thera/">Michel Thera</a> (Limoges) </td><td>thera</td><td>unilim.fr </td></tr>
 <tr><td><a href="http://www.math.jussieu.fr/~miw/">Michel Waldschmidt</a> (Paris)</td><td>miw</td><td>math.jussieu.fr</td></tr>
-#<tr><td><a href="http://www.maths.ox.ac.uk/~tsou/">Tsou Sheung Tsun</a> (Oxford)</td><td>tsou</td><td>maths.ox.ac.uk</td></tr>
 <tr><td><a href="http://www.golonka.se/">Anders Wandahl</a> (Stockholm)</td><td>anders</td><td>golonka.se</td></tr>
 <tr><td>Michel Jambu (Nice)</td><td>jambu</td><td>unice.fr</td></tr>
 <tr><td>Herbert Fleischner (Vienna)</td><td>fleisch</td><td>dbai.tuwien.ac.at</td></tr>
@@ -53,7 +51,7 @@ layout: page
 <tr><td><a href="https://sites.google.com/site/annafino/home">Anna Fino</a> (Turin)</td><td>annamaria.fino</td><td>unito.it</td></tr>
 </table>
 
-  and   
+  and
 
 <p>
 <i> In memoriam</i> :
