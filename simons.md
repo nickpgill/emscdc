@@ -20,7 +20,7 @@ Open calls are focussed on the following areas:
 
 For all applications there are four deadlines each year during 2017-2022:
 
-    February 15th ** for 2022 we have extended to March 20th**
+    February 15th
     May 15th
     September 15th
     November 15th
