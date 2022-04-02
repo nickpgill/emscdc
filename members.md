@@ -37,7 +37,7 @@ layout: page
 <td><b>Name</b></td><td><b>E-name</b></td><td><b>Domain</b></td></tr>
 <tr><td>Paul Vaderlind (Stockholm)</td><td>paul</td><td>math.su.se</td></tr>
 <tr><td><a href="http://www.isp.uu.se">Leif Abrahamsson</a> (Uppsala)</td><td>leif.abrahamsson</td><td>isp.uu.se</td></tr>
-<tr><td><a href = "https://smfi.unipr.it/it/people/arezzo">Claudio Arezzo</a> (ICTP)</td><td>arezzo</td><td>ictp.it</td></tr></table>
+<tr><td><a href = "https://smfi.unipr.it/it/people/arezzo">Claudio Arezzo</a> (ICTP)</td><td>arezzo</td><td>ictp.it</td></tr>
 <tr><td><a href="https://www.uevora.pt/pessoas?id=5348">Joaquim Correia</a> (Evora)</td><td>jmcorreia</td><td>uevora.pt</td></tr>
 <tr><td><a href="http://www.mat.uc.pt/~cmuc/peoplehome.php?tp=&pid=105">Joana Teles</a> (Coimbra)</td><td>jteles</td><td>mat.uc.pt</td></tr>
 <tr><td><a href = "http://www.unilim.fr/pages_perso/michel.thera/">Michel Thera</a> (Limoges) </td><td>thera</td><td>unilim.fr </td></tr>
