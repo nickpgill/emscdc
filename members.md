@@ -22,7 +22,7 @@ layout: page
 <tr><td><b>Webmaster</b>: <a href="http://nickpgill.github.io">Nick Gill</a> (Open University)</td><td>nick.gill</td><td>open.ac.uk</td></tr>
 <tr><td><a href="http://members.unine.ch/elisa.gorla/">Elisa Gorla</a> (Neuchatel)</td><td>elisa.gorla</td><td>unine.ch</td></tr>
 <tr><td><a href="https://www.iag.uni-hannover.de/hulek.html">Klaus Hulek</a> (Hannover)</td><td>hulek</td><td>math.uni-hannover.de</td></tr> 
-<tr><td><b>Vice Chair</b>:  <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a>(Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
+<tr><td><b>Vice Chair</b>:  <a href = "http://www.mat.uniroma3.it/users/pappa/">Francesco Pappalardi</a> (Rome)</td><td>pappa</td><td>mat.uniroma3.it</td></tr>
 <tr><td><a href="http://perso.univ-rennes1.fr/marie-francoise.roy/">Marie-Francoise Roy</a> (Rennes)</td><td>marie-francoise.roy</td><td>univ-rennes1.fr</td></tr>
 <tr><td><a href = "http://www.macs.hw.ac.uk/~bernd/">Bernd Schroers</a> (Edinburgh) </td><td>b.j.schroers</td><td>hw.ac.uk</td></tr>
 <tr><td><a href = "https://people.maths.ox.ac.uk/szendroi/">Balazs Szendroi</a> (Oxford) </td><td>szendroi</td><td>maths.ox.ac.uk</td></tr>
