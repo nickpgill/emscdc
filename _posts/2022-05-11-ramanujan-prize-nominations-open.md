@@ -1,10 +1,8 @@
-&---
+---
 title: 'Ramanujan prize nominations open'
 date: 2022-05-11
 author: nickgill
 layout: post
-#categories:
-#  - Uncategorized
 ---
 
 The Abdus Salam International Centre for Theoretical Physics (ICTP), the International Mathematical Union (IMU), and the Department of Science and Technology of the Government of India (DST) are looking for outstanding, young mathematicians from developing countries to be nominated for the 2022 DST-ICTP-IMU Ramanujan Prize.

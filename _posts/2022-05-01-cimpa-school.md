@@ -1,10 +1,8 @@
-&---
+---
 title: 'CIMPA School: Data Science and Stochastic Optimization'
 date: 2022-05-01
 author: nickgill
 layout: post
-#categories:
-#  - Uncategorized
 ---
 
 <img src="../posterCIMPA2022-SDOS.jpg">
