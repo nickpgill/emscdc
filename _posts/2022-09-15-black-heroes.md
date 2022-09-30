@@ -5,7 +5,7 @@ author: nickgill
 layout: post
 ---
 
-**Location**: Online, hosted by ICMS
+**Location**: Online, hosted by [ICMS](https://www.icms.org.uk/events/2022/black-heroes-mathematics-conference-2022), all welcome!
 
 **Dates**: 4 October 2022 - 09:00 - 05 October 2022 - 19:00
 
