@@ -1,5 +1,5 @@
 ---
-title: 'Abbas Bahri Excellene Fellowship'
+title: 'Abbas Bahri Excellence Fellowship'
 date: 2022-02-05
 author: nickgill
 layout: post
