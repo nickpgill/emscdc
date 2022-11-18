@@ -9,6 +9,12 @@ layout: page
 The latest news from the EMS-CDC...
 
 ---
+<table width="100%" border="3">
+  <tr>
+    <td align="center"> 
+<b>18/11/2022. This site is now out of date. The new EMS-CDC site can be found <a href = "https://euromathsoc.org/committee-developing-countries">here</a>.</b>
+</td></tr></table>
+
 
 {% for post in site.posts %}
 
