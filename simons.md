@@ -1,29 +1,11 @@
 ---
-title: Simons
-﻿author: nickgill
+title: Site archived
+date: 2014-03-11T19:18:39+00:00
+author: nickgill
 layout: page
 ---
 
-### EMS-Simons for Africa Programme
+# 18/11/2022. This site is now out of date. The new EMS-CDC site can be found <a href = "https://euromathsoc.org/committee-developing-countries">here</a>.
 
-There is an ongoing programme run as a partnership between the EMS-CDC and the <a href = "https://www.simonsfoundation.org/">Simons Foundation</a>. 
 
-The aim is to promote individual career possibilities with the consequence of an improved global capacity in African academic institutions. The program is open to all areas of pure and applied mathematics and statistics and it is directed to fellows based in Africa.
-
-Open calls are focussed on the following areas:
-
-    A. Collaborative research visits:
-        A1. Continuation in research
-        A2. PhD development
-    B. Top-up grants for women
-    C. Top-up grants for conference participation
-
-For all applications there are four deadlines each year during 2017-2022:
-
-    February 15th
-    May 15th
-    September 15th
-    November 15th
-
-For more details, visit the <a href ="https://euro-math-soc.eu/ems-simons-africa">EMS-Simons web page</a> or please write an email to: **ems.simonsafrica@gmail.com**.
 
